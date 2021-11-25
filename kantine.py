@@ -1,8 +1,8 @@
 import pandas # To handle DataFrames
 import camelot.io as camelot # To get tables out of an PDF file
 
-source_file_this_month = "https://www.alles-lecker-essen.de/wp-content/uploads/2021/09/Neutral1021.pdf"
-source_file_next_month = "https://www.alles-lecker-essen.de/wp-content/uploads/2021/10/Neutral1121.pdf"
+source_file_this_month = "https://www.alles-lecker-essen.de/wp-content/uploads/2021/10/Neutral1121.pdf"
+source_file_next_month = "https://www.alles-lecker-essen.de/wp-content/uploads/2021/11/neutral1221.pdf"
 source_file_test = "Neutral1121.pdf"
 
 # Get all tabels in the PDF file - each page has one table
