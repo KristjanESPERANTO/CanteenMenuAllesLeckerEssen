@@ -11,7 +11,7 @@ This is a special use case and will hardly be of interest to anyone. If so, I am
 git clone https://github.com/KristjanESPERANTO/CanteenMenuAllesLeckerEssen/
 ```
 
-#### Install requirments
+#### Install requirements
 ```
 pip install pandas
 pip install "camelot-py[base]"
