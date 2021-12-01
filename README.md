@@ -4,7 +4,27 @@ With the script `getmenudata.py`, the canteen menus for the current and the foll
 
 This is a special use case and will hardly be of interest to anyone. If so, I am grateful for suggestions for improvement or a pull request.
 
+## Installation
+
+### Clone / Download
+```
+git clone https://github.com/KristjanESPERANTO/CanteenMenuAllesLeckerEssen/
+```
+
+#### Install requirments
+```
+pip install pandas
+pip install "camelot-py[base]"
+sudo apt-get install python3-opencv
+# The following row maybe isn't necessary
+sudo apt-get install libatlas-base-dev
+```
+
+### Test
+```
+cd CanteenMenuAllesLeckerEssen
+python3 getmenudata.py
+```
 
 ## ToDo
-- Installation guide
 - MagicMirror² as an example with screenshot
