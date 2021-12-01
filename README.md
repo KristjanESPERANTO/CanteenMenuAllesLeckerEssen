@@ -1,4 +1,8 @@
-# MMM-SpeiseplanAllesLeckerEssen
+# SpeiseplanAllesLeckerEssen
+
+With the script `getmenudata.py`, the canteen menus for the current and the following month are read out from PDF files from a [caterer in Halle, Germany](https://www.alles-lecker-essen.de) and converted into a JSON file.
+
+This is a special use case and will hardly be of interest to anyone.
 
 ## TODO
 - cron-Job erstellen, der die Daten regelmäßig holt
