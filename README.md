@@ -4,6 +4,8 @@ With the script `getmenudata.py`, the canteen menus for the current and the foll
 
 This is a special use case and will hardly be of interest to anyone.
 
+If so, I am grateful for suggestions for improvement or a pull request.
+
 ## TODO
 - cron-Job erstellen, der die Daten regelmäßig holt
 - Falls vom aktuellen Monat keine Daten vorhanden: Alte Daten nicht überschreiben
