@@ -24,7 +24,7 @@ elif current_date.month == 12:
   next_url_month = '01'
 
 # Put the URLs together
-source_file_this_month = "https://www.alles-lecker-essen.de/wp-content/uploads/" + first_url_year + "/" + first_url_month + "/Neutral" + current_date_month + first_url_year[-2:] + ".pdf"
+source_file_this_month = "https://www.alles-lecker-essen.de/wp-content/uploads/" + first_url_year + "/" + first_url_month + "/Neutral" + current_date_month + next_url_year[-2:] + ".pdf"
 source_file_this_month_withsmall_n = source_file_this_month.replace('Neutral', 'neutral')
 source_file_next_month = "https://www.alles-lecker-essen.de/wp-content/uploads/" + next_url_year + "/" + current_date_month + "/Neutral" + next_url_month + next_url_year[-2:] + ".pdf"
 source_file_next_month_withsmall_n = source_file_next_month.replace('Neutral', 'neutral')
