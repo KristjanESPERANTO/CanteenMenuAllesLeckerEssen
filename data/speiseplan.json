@@ -1,64 +1,76 @@
 {
-  "01.12.2021": [
+  "03.01.2022": [
     {
       "_id": 1,
-      "description": "Milchreis mit Zucker, Zimt und Apfelmus 2 (vegetarisch) B"
+      "description": "Grüner-Bohneneintopf mit Fleischklößchen dazu Dessert A,F,B,J"
     },
     {
       "_id": 2,
-      "description": "Rinderhacksteak mit Gorgonzola- Blattspinatsoße und Bandnudeln A,B,F,G,J"
-    },
-    {
-      "_id": 3,
-      "description": "Currywurst 1,2,6 mit Röstkartoffeln dazu Krautsalat A,J"
+      "description": "Schweineschnitzel, Mischgemüse dazu Kartoffeln A,B,F,J"
     }
   ],
-  "02.12.2021": [
+  "04.01.2022": [
     {
       "_id": 1,
-      "description": "gebratene Gemüsesticks mit Kräutersoße und Reis dazu Obst (vegetarisch) A,B,F,J"
+      "description": "Makkaroni mit Tomaten- Wurstgulasch dazu Salat A,F,J"
     },
     {
       "_id": 2,
-      "description": "gebr.Seebarschfilet mit Kräutersoße und Brokkoli, Kartoffelpüree A,B,D,F,G,J"
-    },
-    {
-      "_id": 3,
-      "description": "gebratene Entebruststreifen auf Spätzle mit Rotkohl und Pflaumenportweinsoße A,J"
+      "description": "Königsberger Klopse in Karpernsoße mit Kartoffeln dazu Obst A,B,J"
     }
   ],
-  "03.12.2021": [
+  "05.01.2022": [
     {
       "_id": 1,
-      "description": "Linsensuppe 1,2 (süß-sauer) mit Rotwurst 1,2,6 dazu Dessert A,B,G,J"
+      "description": "Hefeklöße mit Beerenmix und Soße mit Vanillegeschmack7 (vegetraisch) A,B, F,"
     },
     {
       "_id": 2,
-      "description": "Hähnchen Cordon Bleu mit Erbsegemüse und Kartoffeln A,J"
-    },
-    {
-      "_id": 3,
-      "description": "chin. Gemüsepfanne auf Sweet-Chili Soße Basmatireis (vegetarisch) A,F,J"
+      "description": "Putengeschnetzeltes mit Spätzle A,F,"
     }
   ],
-  "06.12.2021": [
+  "06.01.2022": [
     {
       "_id": 1,
-      "description": "Nudelsuppe mit Hühnchenfleisch1,2 dazu Dessert B,J"
+      "description": "Feiertag"
     },
     {
       "_id": 2,
-      "description": "Königsberger Klopse mit Kapernsoße2,5 und Kartoffeln A,B,F,G,J"
+      "description": "Feiertag"
     },
     {
       "_id": 3,
-      "description": "Käsespätzle \" Allgäuer Art\" mit Salat (vegetarisch) A,B,F,G,J"
+      "description": "Feiertag"
     }
   ],
-  "07.12.2021": [
+  "07.01.2022": [
     {
       "_id": 1,
-      "description": "gekochte Eier in Senfsoße mit Kartoffeln dazu Möhrensalat (vegetarisch) A,B,F,G,J"
+      "description": "Erbsensuppe 1,2,3 mit Würstchen 1,2 dazu Dessert F,G,J"
+    },
+    {
+      "_id": 2,
+      "description": "Kohlroulade mit Kohlsoße dazu Kartoffeln A.B,F,G,J"
+    }
+  ],
+  "10.01.2022": [
+    {
+      "_id": 1,
+      "description": "Möhrensuppe 3 mit Hühnchenfleisch dazu Dessert J,K,"
+    },
+    {
+      "_id": 2,
+      "description": "Hähnchenschnitzel “Cordon Bleu” 1 mit Erbsen-Maisgemüse und Kartoffeln A,B,F,J"
+    },
+    {
+      "_id": 3,
+      "description": "Spätzle-Gemüsepfanne mit Champignonsoße dazu Salat (vegetarisch) A,B,F,J"
+    }
+  ],
+  "11.01.2022": [
+    {
+      "_id": 1,
+      "description": "Eierragout mit feinem Gemüse und Kartoffeln dazu Salat (vegetarisch) A,B,F,G,J"
     },
     {
       "_id": 2,
@@ -66,165 +78,203 @@
     },
     {
       "_id": 3,
-      "description": "Hühnchenleber in Curry-Weißweinsoße dazu Kartoffelpüree A,B,J"
+      "description": "Leberragout mit Kartoffelpüree dazu Tomatensalat A,B,J"
     }
   ],
-  "08.12.2021": [
+  "12.01.2022": [
     {
       "_id": 1,
-      "description": "Grießbrei mit Erdbeermus (vegetarisch) A,B"
+      "description": "Milchreis mit Apfelmus 2 (vegetarisch) A,B,F,"
     },
     {
       "_id": 2,
-      "description": "Hühnerfrikassee mit Reis dazu Obst A,B,J"
+      "description": "hausgemachte Boulette mit Rahmblumenkohl und Kartoffeln A,B,F,G,J"
     },
     {
       "_id": 3,
-      "description": "marinierter Hering in Joghurt-Remouladensoße 1,3 dazu Kartoffeln B,D,G,J"
+      "description": "Panierter Camenbert mit Preiselbeeren und Tellerösti dazu Salat A,B,F,J"
     }
   ],
-  "09.12.2021": [
-    {
-      "_id": 1,
-      "description": "Kräuterquark mit Kartoffeln dazu Obst (vegetarisch) B,J"
-    },
-    {
-      "_id": 2,
-      "description": "Fischfilet \" Bordelaise\" auf Kartoffelstampf mit Kräutersoße2 dazu Gurkensalat A,B,D,F,G,J"
-    },
-    {
-      "_id": 3,
-      "description": "Grill- Haxe mit Sauerkraut undKartoffeln A,B,F,G,J"
-    }
-  ],
-  "10.12.2021": [
-    {
-      "_id": 1,
-      "description": "Möhreneintopf mit Hühnchenfleisch dazu Dessert B,J"
-    },
-    {
-      "_id": 2,
-      "description": "Grillkäse auf Tomatensoße und Gemüse-Reisnudeln (vegetarisch) B,F,J,M"
-    },
-    {
-      "_id": 3,
-      "description": "Rindfleischlasagne mit Tomatensoße dazu Salat A,B,F,G,J"
-    }
-  ],
-  "13.12.2021": [
-    {
-      "_id": 1,
-      "description": "Grünkohleintopf mit gebratenen Knackerscheiben 1,2 dazu Dessert A,B,G,J"
-    },
-    {
-      "_id": 2,
-      "description": "Bratwürstchen 1,2 mit Erbsengemüse und Kartoffeln A,B,J"
-    },
-    {
-      "_id": 3,
-      "description": "Gemüseboulette mit Kräutersoße und Kartoffelpüree (vegetarisch) A,B,F,G,J"
-    }
-  ],
-  "14.12.2021": [
-    {
-      "_id": 1,
-      "description": "Schupfnudelpfanne auf Champignonsoße und Salat (vegetarisch) B,J"
-    },
-    {
-      "_id": 2,
-      "description": "Spirellibolognese aus gemischte Hackfleisch und feinem Gemüse dazu Reibekäse A,B,F,G,J"
-    },
-    {
-      "_id": 3,
-      "description": "Nierenragout mit Kartoffelpüree dazu Rohkostsalat A,B,J"
-    }
-  ],
-  "15.12.2021": [
-    {
-      "_id": 1,
-      "description": "Kartoffelpuffer mit Apfelmus 2 (vegetarisch) A,B,F"
-    },
-    {
-      "_id": 2,
-      "description": "mit Brokkoli-Kartoffelauflauf gratiniertes Schweineschnitzel auf tellerrösti dazu Salat A,B,J"
-    },
-    {
-      "_id": 3,
-      "description": "gegrillte Hähnchenstreifen mit asiatischen Gemüse in Kokos-Currysoße dazu Reis A,B,J"
-    }
-  ],
-  "16.12.2021": [
-    {
-      "_id": 1,
-      "description": "Eierragout mit feinen Gemüse dazu Katoffeln und Salat (vegetarisch) A,B,F,G,J"
-    },
-    {
-      "_id": 2,
-      "description": "gegrilltes Seelachsfilet mit Möhrengemüse, Zitronen-Buttersoße 2 und Reis A,B,D,F,G,J"
-    },
-    {
-      "_id": 3,
-      "description": "Sauerbraten mit Rotkohl und Spätzle A,B,F,J"
-    }
-  ],
-  "17.12.2021": [
-    {
-      "_id": 1,
-      "description": "Sächsische Kartoffelsuppe (mit gebr. Jagdwurst1,2,6) dazu Dessert A,B,J"
-    },
-    {
-      "_id": 2,
-      "description": "Spätzle-Gemüsepfanne mit Käsesoße dazu Obst (vegetarisch) A,B,F,J"
-    },
-    {
-      "_id": 3,
-      "description": "Putensteak “Hawaii” mit Currysoße und Kroketten A,B,J"
-    }
-  ],
-  "20.12.2021": [
-    {
-      "_id": 1,
-      "description": "Kürbis-Süßkartoffelsuppe dazu Fruchtjoguhrt B,J"
-    },
-    {
-      "_id": 2,
-      "description": "Chili Con Carne mit Reis dazu Salat B,F,G,J,"
-    }
-  ],
-  "21.12.2021": [
-    {
-      "_id": 1,
-      "description": "Fischstäbchen mit Kartoffelpüree Kräutersoße und Clementine A,B,D,F,J"
-    },
-    {
-      "_id": 2,
-      "description": "Spirelli mit Wurstgulasch1,2 und Obst A,B,F,J"
-    }
-  ],
-  "22.12.2021": [
-    {
-      "_id": 1,
-      "description": "Mini Eierkuchen mit Apfelmus2 und Soße mit Vanillegeschmack7 (vegetarisch) A,B,F"
-    },
-    {
-      "_id": 2,
-      "description": "Schnitzel mit Spiegelei und Bratkartoffeln6 A,F,"
-    }
-  ],
-  "23.12.2021": [
+  "13.01.2022": [
     {
       "_id": 1,
       "description": "gekochte Eier in Senfsoße mit Kartoffeln, Möhrensalat (Vegetarisch) A,B,F,G,J"
     },
     {
       "_id": 2,
-      "description": "Alaska-Seelachsfilet “Italiano” (mit Tomate-Mozzarella) auf Zitronengras-Lachssoße 2 mit Tomatenreis A,B,C,D,E,F,J"
+      "description": "Grillfisch mit Gemüse-Reis-Curry dazu Salat A,B,C,D,E,F,J"
+    },
+    {
+      "_id": 3,
+      "description": "Bratwurst mit Möhren dazu Kartoffeln A,B,J"
     }
   ],
-  "27.12.2021": [
+  "14.01.2022": [
+    {
+      "_id": 1,
+      "description": "Kartoffelsuppe 1,2,3 mit Würstchen 1,2 dazu Dessert1 B,F,G"
+    },
+    {
+      "_id": 2,
+      "description": "Schweineschnitzel mit Spiegelei und Kartoffelsalat 1 A,B,F,G,J"
+    },
+    {
+      "_id": 3,
+      "description": "Spinatlasagne mit Tomatensoße und Salat (vegetarisch) A,B,F"
+    }
+  ],
+  "17.01.2022": [
+    {
+      "_id": 1,
+      "description": "Graupensuppe 1,2,3 mit Rindfleisch dazu Dessert A,B,J"
+    },
+    {
+      "_id": 2,
+      "description": "gegrillte Hähnchenstreifen auf fruchtiger Currysoße mit Gemüsereis A,B,G,J"
+    },
+    {
+      "_id": 3,
+      "description": "Spinat-Kartoffelauflauf mit Käse dazu Salat (vegetarisch) A,B,F,J,"
+    }
+  ],
+  "18.01.2022": [
+    {
+      "_id": 1,
+      "description": "Spaghetti “Napoli” mit geriebenen Käse 7 dazu Bananenquark (vegetarisch) A,B,F,J,"
+    },
+    {
+      "_id": 2,
+      "description": "gebackener Leberkäse 1,2,6 mit Bayrischkraut und Kartoffeln A,B,F,G,J"
+    },
+    {
+      "_id": 3,
+      "description": "Grützwurst 1,2 mit Sauerkraut 1,2 und Kartoffeln G,J"
+    }
+  ],
+  "19.01.2022": [
+    {
+      "_id": 1,
+      "description": "Kartoffelpuffer mit Zucker und Apfelmus 2(vegetarisch) B"
+    },
+    {
+      "_id": 2,
+      "description": "Parmesan-Hähnchenbrust auf Käsesoße 7 dazu Bandnudeln A,B,F,J,"
+    },
+    {
+      "_id": 3,
+      "description": "Wirsingkohlroulade 6 mit Wirsingsoße dazu Kartoffeln A,B,F,G,J"
+    }
+  ],
+  "20.01.2022": [
+    {
+      "_id": 1,
+      "description": "Kräuterquark mit Kartoffeln dazu Frischobst (vegetarisch) B,J"
+    },
+    {
+      "_id": 2,
+      "description": "gebratenes Seelachsfilet auf Kräutersoße mit Kartoffelpüree A,B,D,F,G,J"
+    },
+    {
+      "_id": 3,
+      "description": "mit Hirtenkäse gef. Hackröllchen auf provenzealischen Bohnen dazu Tomatenreis A,B,F,G,J"
+    }
+  ],
+  "21.01.2022": [
+    {
+      "_id": 1,
+      "description": "Weißkohleintopf mit Rindfleisch dazu Dessert A,J"
+    },
+    {
+      "_id": 2,
+      "description": "Rindsbraten mit Rotkohl und Kartoffeln A,J"
+    },
+    {
+      "_id": 3,
+      "description": "chin. Gemüsepfanne mit Mienudeln und Szechuansoße (vegetarisch) A,B,F,G,J,"
+    }
+  ],
+  "24.01.2022": [
+    {
+      "_id": 1,
+      "description": "Nudelsuppe 3 mit Hühnchenfleisch dazu Brot und Dessert A,B,F,J,"
+    },
+    {
+      "_id": 2,
+      "description": "Blumenkohl-Käseschnitzel mit Käsesoße 7 und Brokkoli-Kartoffelpüree (vegetarisch)A,B,F,J"
+    },
+    {
+      "_id": 3,
+      "description": "Schweineschnitzel mit Rucola-Champignonsoße dazu Spätzle A,B,F,J,"
+    }
+  ],
+  "25.01.2022": [
+    {
+      "_id": 1,
+      "description": "Tortellini in fruchtiger Tomatensoße dazu Dessert (vegetarisch) A,B,F,J,"
+    },
+    {
+      "_id": 2,
+      "description": "gemischter Gulasch mit Makkaroni dazu Salat A,B,F,J,"
+    },
+    {
+      "_id": 3,
+      "description": "marinierter Matjeshering 1,3 in Joghurt-Remouladensoße 1,2,3,4,7 B,D,F,J,"
+    }
+  ],
+  "26.01.2022": [
+    {
+      "_id": 1,
+      "description": "Eierkuchen auf Soße mit Vanillegeschmack 7 dazu Apfelmus 2 (vegetarisch) A,B,J"
+    },
+    {
+      "_id": 2,
+      "description": "Gyrosgeschnetzeltes 3 in Metaxasoße mit Bratkartoffeln und Krautsalat A,B,J"
+    },
+    {
+      "_id": 3,
+      "description": "gekochtes Rindfleisch in Meerrettichsoße 2,4,5 dazu Klöße A,B,F"
+    }
+  ],
+  "27.01.2022": [
+    {
+      "_id": 1,
+      "description": "Hackfleischstippe mit Gurkenstreifen und Kartoffelpüree dazu Salat A,B,J"
+    },
+    {
+      "_id": 2,
+      "description": "Seelachsfilet “Bordelaise” auf Kräuterrahm dazu Kartoffeln A,B,D,F,G,J"
+    },
+    {
+      "_id": 3,
+      "description": "gefüllte Paprikaschote (mit Gemüse und Mozzarella) auf Paprikasoße dazu Reis (vegetarisch) A,B,F,J"
+    }
+  ],
+  "28.01.2022": [
+    {
+      "_id": 1,
+      "description": "Linsensuppe mit Rotwurst 1,2 dazu Dessert B,G,J,K"
+    },
+    {
+      "_id": 2,
+      "description": "Bacon, Tomate Spiegelei geröstetten Zwiebeln auf Rinderhacksteak mit Pommes A,B,F,G,"
+    },
+    {
+      "_id": 3,
+      "description": "Gemüsecurry (Paprika, Zucchini, Möhren) mit Schupfnudel Gemüsepfanne (vegetarisch) A,B,F,J,"
+    }
+  ],
+  "31.01.2022": [
     {
       "_id": 1,
       "description": "Kartoffelsuppe mit Würstchen 1,2 dazu Dessert B,J"
+    },
+    {
+      "_id": 2,
+      "description": "Schweineschnitzel mit Salami und Käse gratiniert ,Bratkartoffel und Gewürzgurke1,2 A,B,G,J"
+    },
+    {
+      "_id": 3,
+      "description": "Gemüsemaultaschen mit geschnetzelten Zwiebeln und Rucola- Tomatensalat (vegatarisch)"
     }
   ]
 }
