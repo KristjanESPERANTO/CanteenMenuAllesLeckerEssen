@@ -465,27 +465,11 @@
     {
       "_id": 1,
       "description": "Karfreitag"
-    },
-    {
-      "_id": 2,
-      "description": "Karfreitag"
-    },
-    {
-      "_id": 3,
-      "description": "Karfreitag"
     }
   ],
   "18.04.2022": [
     {
       "_id": 1,
-      "description": "Ostermontag"
-    },
-    {
-      "_id": 2,
-      "description": "Ostermontag"
-    },
-    {
-      "_id": 3,
       "description": "Ostermontag"
     }
   ],
