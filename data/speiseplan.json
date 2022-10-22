@@ -1,633 +1,642 @@
 {
-  "30.06.2022": [
-    {
-      "_id": 1,
-      "description": "Eierragout mit feinem Gemüse Kartoffeln dazu Krautsalat (vegetarisch)A,B,F,G,J"
-    },
-    {
-      "_id": 2,
-      "description": "Rotbarschfilet \"Caprese\"( mit Tomate,Mozzarella,Basilikum) auf Kartoffelauflauf A,B,D,F,J"
-    },
-    {
-      "_id": 3,
-      "description": "Kassler Sauerkraut und Kartoffeln A,B,F,J"
-    }
-  ],
-  "01.07.2022": [
-    {
-      "_id": 1,
-      "description": "Tomatensuppe mit feinem Gemüse und Reis dazu Dessert B,J"
-    },
-    {
-      "_id": 2,
-      "description": "Gabelspagetti \"Carbonara\"1,2,6 dazu Salat und Reibekäse A,B,F,J"
-    },
-    {
-      "_id": 3,
-      "description": "Gemüsefrikadelle mit Käse- Kräutersoße ellerrösti und Salat (vegetarisch) A,B,F,G,J"
-    }
-  ],
-  "04.07.2022": [
-    {
-      "_id": 1,
-      "description": "Nudelsuppe mit Hähnchenfleisch dazu Dessert A,B,F,J"
-    },
-    {
-      "_id": 2,
-      "description": "Schweineschnitzel mit gebratenen Gnocchi und Ratatouille A,F,G,J"
-    },
-    {
-      "_id": 3,
-      "description": "Spinatlasagne dazu Salat A,F,J"
-    }
-  ],
-  "05.07.2022": [
-    {
-      "_id": 1,
-      "description": "Süßkartoffelauflauf mit Blattspinat und Hirtenkäse dazu Krautsalat (vegetarisch) B,F,G,J"
-    },
-    {
-      "_id": 2,
-      "description": "Makkaroni mit feinem Gemüsegulasch dazu Krautsalat A,F,G,J"
-    },
-    {
-      "_id": 3,
-      "description": "Gyros vom Schwein, Metaxasoße, Reis, Krautsalat und Tzaziki 2 B,J"
-    }
-  ],
-  "06.07.2022": [
-    {
-      "_id": 1,
-      "description": "Milchreis mit Zucker und Zimt dazu Apfelmus 1,2 (vegetarisch) A,F"
-    },
-    {
-      "_id": 2,
-      "description": "Hähnchenstreifen auf Tortellini- Mischgemüse-Pfanne in Kräuterrahmsoße dazu Salat A,B,J"
-    },
-    {
-      "_id": 3,
-      "description": "Gemüsefrikadelle auf Hirtenkäse- Tomaten-Bohnengemüse dazu Reis und Salat A,F,G,J"
-    }
-  ],
-  "07.07.2022": [
-    {
-      "_id": 1,
-      "description": "Spinat mit Rührei und Kartoffeln dazu Obst (vegetarisch) B,F,J"
-    },
-    {
-      "_id": 2,
-      "description": "Backfischfilet mit Remouladensoße 1,2,3,4,7 dazu Bratkartoffeln A,B,D,F,G,J"
-    },
-    {
-      "_id": 3,
-      "description": "mit Hack gefüllte Paprikaschote dazu Kartoffeln und Salat A,B,F,G,J"
-    }
-  ],
-  "08.07.2022": [
-    {
-      "_id": 1,
-      "description": "Soljanka mit Brötchen dazu Dessert A,B,J"
-    },
-    {
-      "_id": 2,
-      "description": "Hühnerfrikassee mit Reis dazu Obst A,B,J"
-    },
-    {
-      "_id": 3,
-      "description": "gegrillte Paprika, Zucchini und Möhren in Currysoße dazu Gemüse-Couscous (vegetarisch) A,J"
-    }
-  ],
-  "11.07.2022": [
-    {
-      "_id": 1,
-      "description": "Möhreneintopf3 mit Hühnerfleisch dazu Dessert B,J"
-    },
-    {
-      "_id": 2,
-      "description": "Schweineschnitzel mit Rahmchampignons und Eierknöpfle A,B,F,J"
-    },
-    {
-      "_id": 3,
-      "description": "Maultaschen mit geschmeltzten Zwiebeln dazu Rucola-Tomatensalat (vegetarisch) A,F,J"
-    }
-  ],
-  "12.07.2022": [
-    {
-      "_id": 1,
-      "description": "Blumenkohl-Käsemedailion mit Brokkoli-Kräutersoße dazu Kartoffelpüree (vegetarisch)A,B,F,J"
-    },
-    {
-      "_id": 2,
-      "description": "Bratwurst 2 mit Sauerkraut und Kartoffeln A,J"
-    },
-    {
-      "_id": 3,
-      "description": "Spirelli Bolognese dazu Obst A,F,J"
-    }
-  ],
-  "13.07.2022": [
-    {
-      "_id": 1,
-      "description": "Grießbrei mit Erdbeeren (vegetarisch) B"
-    },
-    {
-      "_id": 2,
-      "description": "Königsberger Klopse in Kapernsoße dazu Kartoffeln und Obst Kartoffeln A,F,J"
-    },
-    {
-      "_id": 3,
-      "description": "mexikanisches Hähnchengeschnetzelte mit Wedges Kartoffeln dazu Krautsalat A,J,"
-    }
-  ],
-  "14.07.2022": [
-    {
-      "_id": 1,
-      "description": "gekochte Eier in Senfsoße mit Kartoffeln dazu Möhrensalat (vegetarisch) A,B,F,J"
-    },
-    {
-      "_id": 2,
-      "description": "paniertes Fischfilet mit Kartoffelsalat1 dazu Obst A,F,G,J"
-    },
-    {
-      "_id": 3,
-      "description": "Jägerschnitzel 1,2,6 mit Bayrischkraut dazu Kartoffeln A,B,F,G, J"
-    }
-  ],
-  "15.07.2022": [
-    {
-      "_id": 1,
-      "description": "Kartoffelsuppe1,2 mit Würstchen1,2,6 dazu Dessert B,J"
-    },
-    {
-      "_id": 2,
-      "description": "Tortellini- Ricotta- Spinaci mit Tomatensoße dazu Melone (vegetarisch)A,B,F,J"
-    },
-    {
-      "_id": 3,
-      "description": "Lasagne Bolognese dazu Salat A,F,J"
-    }
-  ],
-  "18.07.2022": [
-    {
-      "_id": 1,
-      "description": "Griechischer Grillgemüseeintopf mit Mais, Zucchini, Paprika, Tomaten und Kartoffelwürfeln dazu Dessert (vegetarisch) J, K"
-    },
-    {
-      "_id": 2,
-      "description": "Gnocchi-Pfanne mit Tomatensoße geriebenem Käse Quarkspeise (vegetarisch) A,B,F,J"
-    },
-    {
-      "_id": 3,
-      "description": "Grillhaxe mit Sauerkraut und Kartoffeln A,J"
-    }
-  ],
-  "19.07.2022": [
-    {
-      "_id": 1,
-      "description": "Kräuterquark mit Kartoffeln dazu Salat (vegetarisch) A,B,F,G,J"
-    },
-    {
-      "_id": 2,
-      "description": "Jägerschnitzel 1,2,6 mit Spirelli und Tomatensoße A,B,G,J"
-    },
-    {
-      "_id": 3,
-      "description": "marinierter Hering 1,3, mit Remouladensoße 1,4,7, und Kartoffeln A,B,D,F,G,J"
-    }
-  ],
-  "20.07.2022": [
-    {
-      "_id": 1,
-      "description": "Hefeklöße in Beerensoße und Soße mit Vanillegeschmack 7 (vegetarisch) A, B,F,"
-    },
-    {
-      "_id": 2,
-      "description": "Hähnchenkeule Mischgemüse und Kartoffeln A,J"
-    },
-    {
-      "_id": 3,
-      "description": "Currywurst 1,2,6 mit Pommes Frites dazu Krautsalat B,F,G,J"
-    }
-  ],
-  "21.07.2022": [
-    {
-      "_id": 1,
-      "description": "Rührei mit Bratkartoffeln dazu Gurkensalat (vegetarisch) B,F,J"
-    },
-    {
-      "_id": 2,
-      "description": "gegrilltes Seebarschfilet in Kräutersoße dazu Kartoffelpüree A,B,D,J"
-    },
-    {
-      "_id": 3,
-      "description": "Wirsingkohlroulade mit Wirsingsoße und Kartoffeln A,B,F,G,J,"
-    }
-  ],
-  "22.07.2022": [
-    {
-      "_id": 1,
-      "description": "Grüne Bohnensuppe Rindfleisch dazu Brot und Dessert A,B,J"
-    },
-    {
-      "_id": 2,
-      "description": "Cevapcici mit Tomaten- Blattspinatsoße dazu Reis A,B,F,J"
-    },
-    {
-      "_id": 3,
-      "description": "panierter Camembert mit Preiselbeeren und Röstitaler dazu Salat (vegetarisch) B,F,G,J"
-    }
-  ],
-  "25.07.2022": [
-    {
-      "_id": 1,
-      "description": "Graupensuppe 3 mit Rindfleisch dazu Dessert A,J,"
-    },
-    {
-      "_id": 2,
-      "description": "Schweineschnitzel mit Tomaten, Mozzarella, Blattspinat gratiniert auf Tellerrösti dazu Salat A,F,G,J"
-    },
-    {
-      "_id": 3,
-      "description": "Kartoffel- Blattspinatauflauf dazu Salat A,B,F,G,J"
-    }
-  ],
-  "26.07.2022": [
-    {
-      "_id": 1,
-      "description": "Hackfleischstippe mit Kartoffelpüree dazu Salat A,B,F,G,J"
-    },
-    {
-      "_id": 2,
-      "description": "gebratenes Käsesteak auf Gabelspagetti mit Tomatensoße dazu Krautsalat (vegetarisch) A,B,F,J"
-    },
-    {
-      "_id": 3,
-      "description": "Sülze mit Remouladensoße 1,2,3,4,7, dazu Bratkartoffeln A,B,G,J"
-    }
-  ],
-  "27.07.2022": [
-    {
-      "_id": 1,
-      "description": "Kaiserschmarren mit Apfelmus2 und Soße mit Vanillegeschmack7 A,B,F,G,J"
-    },
-    {
-      "_id": 2,
-      "description": "Brokkoli-Curry dazu Pasta Farfalle A,B,F,G,J"
-    },
-    {
-      "_id": 3,
-      "description": "Chili Con Carne mit Reis dazu Krautsalat A,J,"
-    }
-  ],
-  "28.07.2022": [
-    {
-      "_id": 1,
-      "description": "Spinat mit Rührei und Kartoffeln (vegetarisch) A,B,F,J"
-    },
-    {
-      "_id": 2,
-      "description": "gebratenes Seelachsfilet \"Müllerin Art\" auf Brokkoli-Möhren Zuckerschoten mit Buttersoße7 und Kartoffeln A,B,D,J"
-    },
-    {
-      "_id": 3,
-      "description": "Kängurubraten mit Rosenkohl und Serviettenknödel A,B,F,J"
-    }
-  ],
-  "29.07.2022": [
-    {
-      "_id": 1,
-      "description": "Erbsensuppe1,2 mit Bockwurst1,2 dazu Dessert B,J"
-    },
-    {
-      "_id": 2,
-      "description": "Hackbällchen \"Toskana\" mit Tomatenreis dazu Krautsalat A,B,F,J"
-    },
-    {
-      "_id": 3,
-      "description": "panierter Hirtenkäse mit Frischkäse- Kartoffeltaschen dazu Salatschale mit Kräuterdressing (vegetarisch A,B,F,G,J"
-    }
-  ],
-  "01.08.2022": [
-    {
-      "_id": 1,
-      "description": "Möhreneintopf 3 mit Hühnchenfleisch dazu Rote Grütze A,B,J"
-    },
-    {
-      "_id": 2,
-      "description": "Schweineschnitzel gratiniert mit Blumenkohl + Käse 7 dazu holländische Soße und Kartoffeln A,B,F,J"
-    },
-    {
-      "_id": 3,
-      "description": "Kartoffel Brokkoliauflauf dazu Salat (vegetarisch) A,B,F,G,J"
-    }
-  ],
-  "02.08.2022": [
-    {
-      "_id": 1,
-      "description": "Gemüse Knusperbagel mit Kartoffelpüree, Kräutersoße und Salat (vegetarisch) A,B,F,J"
-    },
-    {
-      "_id": 2,
-      "description": "Wurstgulasch 1,2,6 mit Spirelli und Tomatensoße und Salat A,B,F,G,J"
-    },
-    {
-      "_id": 3,
-      "description": "Matjeshering auf Jogurt Remuladensoße Kartoffeln und Salat A,B,F,G,J"
-    }
-  ],
-  "03.08.2022": [
-    {
-      "_id": 1,
-      "description": "Kartoffelpuffer mit Apfelmus 2 (vegetarisch) A,F"
-    },
-    {
-      "_id": 2,
-      "description": "Königsberger Klopse in Kapernsoße dazu Kartoffeln A,G,J"
-    },
-    {
-      "_id": 3,
-      "description": "geschnetzeltes Züricher Art mit Champignon und Spätzle dazu Salat A,B,J,K"
-    }
-  ],
-  "04.08.2022": [
-    {
-      "_id": 1,
-      "description": "Eierragout mit feinem Gemüse und Kartoffeln (vegetarisch) A,B,F,G,J"
-    },
-    {
-      "_id": 2,
-      "description": "gedünstetes Seebarschfilet auf rahmigen Brokkolicurry dazu Couscous A,B,D,J"
-    },
-    {
-      "_id": 3,
-      "description": "Hackfleisch-Krautpfanne mit Kartoffeln dazu Obst A,J"
-    }
-  ],
-  "05.08.2022": [
-    {
-      "_id": 1,
-      "description": "Kohlrabirahmeintopf mit Kartoffelwürfeln dazu Schokopudding (vegetarisch) B,J"
-    },
-    {
-      "_id": 2,
-      "description": "gemischter Gulasch mit Erbsengemüse und \"Böhmischen\" Knödeln A,B,J"
-    },
-    {
-      "_id": 3,
-      "description": "Bauernomelett (mit Bratkartoffeln gefülltes Eieromelette) dazu Krautsalat mit Gewürzgurke (vegetarisch) A,B,F,J"
-    }
-  ],
-  "08.08.2022": [
-    {
-      "_id": 1,
-      "description": "Tomatensuppe mit Sternchennudeln dazu Brot und Dessert (vegetarisch) A,B,F,J"
-    },
-    {
-      "_id": 2,
-      "description": "Hähnchenschnitzel “Cordon Bleu” 7 mit Mischgemüse und Kartoffeln A,B,F,J"
-    },
-    {
-      "_id": 3,
-      "description": "gebackener Camembert mit Preiselbeeren dazu Tellerrösti und Salat (vegetarisch) A,B,F,G,J"
-    }
-  ],
-  "09.08.2022": [
-    {
-      "_id": 1,
-      "description": "Kartoffel-Gemüseauflauf mit Käse 7 dazu Salat (vegetarisch) B,F,G,J"
-    },
-    {
-      "_id": 2,
-      "description": "Makkaroni mit Jägerschnitzel Tomatensoße1,2,6 dazu Krautsalat A,B,F,J"
-    },
-    {
-      "_id": 3,
-      "description": "griechischer Salatteller mit Hirtenkäse und Oliven dazu Knoblauchbrot (vegetarisch) A,B,F,J"
-    }
-  ],
-  "10.08.2022": [
-    {
-      "_id": 1,
-      "description": "Minieierkuchen mit Apfelmus2 dazu Soße mit Vanillegeschmack 7 (vegetarisch) A,B,F"
-    },
-    {
-      "_id": 2,
-      "description": "hausgemachte Boulette mit würzigem Spinat dazu Kartoffeln A,B,F,G,J"
-    },
-    {
-      "_id": 3,
-      "description": "gebackener Leberkäse 1,2,6 mit Bayrischkraut und Kartoffeln A,J"
-    }
-  ],
-  "11.08.2022": [
-    {
-      "_id": 1,
-      "description": "Rührei mit Bratkartoffeln dazu Gurkensalat (vegetarisch) B,F,J"
-    },
-    {
-      "_id": 2,
-      "description": "gegrilltes Seelachsfilet mit Kartoffelstampf und Buttersoße 1 dazu Banane A,D,F,G,J"
-    },
-    {
-      "_id": 3,
-      "description": "Schweinebraten mit Kaisergemüse und Kartoffeln A,B,G,J"
-    }
-  ],
-  "12.08.2022": [
-    {
-      "_id": 1,
-      "description": "Gemüseeintopf mit Kartoffelwürfeln dazu Dessert (vegetarisch) B,J"
-    },
-    {
-      "_id": 2,
-      "description": "gegrillte Hähnchenkeule mit Rotkohl und Kartoffeln A,J"
-    },
-    {
-      "_id": 3,
-      "description": "gegrilltes Gemüsecurry mit Couscous dazu Salat (vegetarisch) A,B,F,G,J"
-    }
-  ],
-  "15.08.2022": [
-    {
-      "_id": 1,
-      "description": "Kartoffelsuppe 1,2 mit Würstchen 1,2 dazu Dessert B,J"
-    },
-    {
-      "_id": 2,
-      "description": "Schweineschnitzel mit Rahmchampignons und Pommes"
-    },
-    {
-      "_id": 3,
-      "description": "mit Champignons gefülltes Eieromelett dazu Salat (vegetarisch) B,F,G,J"
-    }
-  ],
-  "16.08.2022": [
-    {
-      "_id": 1,
-      "description": "Kartoffeln mit Rahmspinat und Rührei dazu Salat (vegetarisch) A,B,F,G,J"
-    },
-    {
-      "_id": 2,
-      "description": "Hackfleischstippe mit Kartoffelpüree dazu Gurkensalat A,B,J"
-    },
-    {
-      "_id": 3,
-      "description": "Hähnchengyros mit Tzatzikki Krautsalat und Fladenbrot A,B,G,J"
-    }
-  ],
-  "17.08.2022": [
-    {
-      "_id": 1,
-      "description": "Milchreis mit Zucker, Zimt und Apfelmus 2 (vegetarisch) B"
-    },
-    {
-      "_id": 2,
-      "description": "gegr. Hähnchenbrust mit Blattspinat und Hirtenkäse dazu Frischkäse- Kartoffeltaschen A,B,F,J"
-    },
-    {
-      "_id": 3,
-      "description": "Gyrosgeschnetzeltes mit Metaxasoße 7 und Reis dazu Tzatziki und Krautsalat A,B,J"
-    }
-  ],
-  "18.08.2022": [
-    {
-      "_id": 1,
-      "description": "gekochte Eier in Senfsoße und Kartoffeln (vegetarisch) A,F,G,J"
-    },
-    {
-      "_id": 2,
-      "description": "Seelachsfilet (grat. mit Blattspinat und Käse 7) dazu Dillsoße und Kartoffelpüree A,B,D,J"
-    },
-    {
-      "_id": 3,
-      "description": "Kohlroulade mit Kohlsoße und Kartoffeln A,B,F,G,J"
-    }
-  ],
-  "19.08.2022": [
-    {
-      "_id": 1,
-      "description": "Käse-Hackfleischsuppe mit Brötchen dazu Dessert A,B,F,J"
-    },
-    {
-      "_id": 2,
-      "description": "gegrillte Hähnchenstreifen mit Rahmblumenkohl und Kartoffeln A,B,J"
-    },
-    {
-      "_id": 3,
-      "description": "Spätzle-Gemüsepfanne 7 mit Käse- Kräutersoße dazu Tomatensalat (vegetarisch) A,B,F,J"
-    }
-  ],
-  "22.08.2022": [
-    {
-      "_id": 1,
-      "description": "Graupeneintopf 3 mit Rauchfleisch dazu Dessert A,B,J"
-    },
-    {
-      "_id": 2,
-      "description": "Bauernschnitzel (gratiniert mit Wurststreifen und Zwiebeln) auf Käsespätzle 7 dazu Tomatensalat A,B,F,G,J"
-    },
-    {
-      "_id": 3,
-      "description": "Gemüseboulette mit Käsespätzle 7 dazu Tomatensalat (vegetarisch) A,B,F,J"
-    }
-  ],
-  "23.08.2022": [
-    {
-      "_id": 1,
-      "description": "Kräuterquark mit Kartoffeln dazu Gurkensalat (vegetarisch) B,J"
-    },
-    {
-      "_id": 2,
-      "description": "Spaghetti “Carbonara” 1,2,6 dazu Bananenquark A,B,F,J"
-    },
-    {
-      "_id": 3,
-      "description": "Currywurst 1,2,4,6 mit Pommes dazu Salat A,B,F,G,J"
-    }
-  ],
-  "24.08.2022": [
-    {
-      "_id": 1,
-      "description": "Grießbrei mit Zucker, Zimt und Apfelmus 2 (vegetarisch) B"
-    },
-    {
-      "_id": 2,
-      "description": "gefüllte Paprikaschote (mit Hackfleisch)mit Reis dazu Kirschkompott A,B,F,J"
-    },
-    {
-      "_id": 3,
-      "description": "Hähnchenkebab mit Kräuterquark, Fladenbrot und Krautsalat A,B,J"
-    }
-  ],
-  "25.08.2022": [
-    {
-      "_id": 1,
-      "description": "frischer Blumenkohl mit holländischer Soße und Petersilienkartoffeln (Vegetarisch) B,F,J"
-    },
-    {
-      "_id": 2,
-      "description": "Makkaroni mit Würstchen- Tomatensoße dazu Salat A,B,D,F,J"
-    },
-    {
-      "_id": 3,
-      "description": "Sauerbraten mit Rotkohl und Klößen A,J"
-    }
-  ],
-  "26.08.2022": [
-    {
-      "_id": 1,
-      "description": "Linsensuppe 1,2 mit Rotwurst 1,2,6 dazu Dessert A,B,G,J"
-    },
-    {
-      "_id": 2,
-      "description": "Gemüse-Nudelauflauf 7 dazu Salat (vegetarisch) A,B,F,G,J"
-    },
-    {
-      "_id": 3,
-      "description": "Chili Con Carne mit Reis dazu Krautsalat B,J"
-    }
-  ],
   "29.08.2022": [
     {
       "_id": 1,
-      "description": "Nudelsuppe mit Hühnchenfleisch dazu Dessert A,B,F,J"
+      "description": "Nudelsuppe mit Hühnerfleisch A, 511, 30 Becher-Dessert 28, 34, 7, 10"
     },
     {
       "_id": 2,
-      "description": "Schweineschnitzel mit Erbsengemüse und Kartoffeln A,B,F,J"
+      "description": "paniertes Schweineschnitzel A, 511, 30, 20 Erbsengemüse gebunden und Kartoffeln"
     },
     {
       "_id": 3,
-      "description": "Gemüsenuggets mit Kräutersoße und Couscous dazu Salat (vegetarisch) A,B,F,G,I,J"
+      "description": "Gemüsenuggets (Stück) A, 511, 34, 38 mit Kräutersoße A, 511, 28, 34, 12 Couscous A, 511 dazu Salat"
     }
   ],
   "30.08.2022": [
     {
       "_id": 1,
-      "description": "Spaghetti “Napoli” mit geriebenen Käse 7 dazu Bananenquark (vegetarisch) A,B;F,J"
+      "description": "Gabelspaghetti A, 511, 30 Napolisoße mit geriebenen Käse 19, 21 Bananenquark 28, 33, 34"
     },
     {
       "_id": 2,
-      "description": "Spirelli mit Gulasch (vom Schwein) dazu Banane A,B,G,J"
+      "description": "Gulasch vom Schwein 36 und Spirelli A, 511 Banane"
     },
     {
       "_id": 3,
-      "description": "Thailändisches Hähnchengeschetzeltes Curry-Mango-Kokossoße und Reis A,B,F,J"
+      "description": "Thailändisches Hähnchengeschetzeltes A, 511, 12 Curry-Mango-Kokossoße A, 511, 28, 34, 12 und Reis"
     }
   ],
   "31.08.2022": [
     {
       "_id": 1,
-      "description": "Kartoffelpuffer mit Apfelmus 2 (vegetarisch) A,B,F"
+      "description": "Kartoffelpuffer ( Stück ) A, 511, 30 mit Apfelmus 2"
     },
     {
       "_id": 2,
-      "description": "Bratwurst 2 mit Sauerkraut und Kartoffeln A,,J"
+      "description": "Rostbratwurst 36, 37, 16 mit Sauerkraut und Kartoffeln"
     },
     {
       "_id": 3,
-      "description": "Wildgulasch mit Waldpilzsoße dazu böhmische Knödel A,J"
+      "description": "Wildgulasch 93, 39 böhmische Knödel A, 511, 30, 34, 17, 19 #Waldpilzsoße"
     }
   ],
-  "": []
+  "01.09.2022": [
+    {
+      "_id": 1,
+      "description": "Rahmspinat 28, 34 Rührei 30 und Kartoffeln"
+    },
+    {
+      "_id": 2,
+      "description": "Seelachsfilet \" Italiano \" 28, 31, 34 #Zitronengras-Lachssoße #Tomatenreis"
+    },
+    {
+      "_id": 3,
+      "description": "Blumenkohl und Brokkoli-Rahm 28, 34 und Kartoffelpüree 28, 34 dazu Salat"
+    }
+  ],
+  "02.09.2022": [
+    {
+      "_id": 1,
+      "description": "Möhrensuppe mit Hühnerfleisch 1, 2 Becher-Dessert 28, 34, 7, 10"
+    },
+    {
+      "_id": 2,
+      "description": "Hühnerfrikasse 28, 34 und Reis dazu Salat"
+    },
+    {
+      "_id": 3,
+      "description": "gebratenes Käsesteak 28, 34 Gabelspaghetti A, 511, 30 mit Tomatensoße A, 511, 12 dazu Salat"
+    }
+  ],
+  "(93) unter Verwendung von Alkohol, (A) Glutenhaltiges Getreide und -erzeugnisse, (511) Weizen und Weizenerzeugnisse, (28) Laktose, (30) Eier und -erzeugnisse, (31) Fisch und -erzeugnisse, (33) Soja und -erzeugnisse, (34) Milch und -erzeugnisse, (36) Sellerie und -erzeugnisse, (37) Senf und -erzeugnisse, (38) Sesamsamen und -erzeugnisse, (39) Schwefeldioxid und Sulfide in einer Konzentration von mehr als 10mg/kg oder 10/mg/l, als SO2 angegeben (1) mit Konservierungsstoff, (2) mit Antioxidationsmittel, (7) mit einer Zuckerart und Süßungsmitteln, (10) enthält eine Phenylalaninquelle, (12) mit Farbstoff, (16) mit Phosphat, (17) mit Milchpulver, (19) mit Milcheiweiß, (20) mit Eiklar, (21) unter Verwendung von Milch": [],
+  "05.09.2022": [
+    {
+      "_id": 1,
+      "description": "Kartoffelsuppe 36 Wiener 1, 2, 16 Becher-Dessert 28, 34, 7, 10"
+    },
+    {
+      "_id": 2,
+      "description": "gegrillte Hähnchenschenkel mit Buttermöhren und Kartoffeln"
+    },
+    {
+      "_id": 3,
+      "description": "Zucchini-Kartoffelpuffer 28, 30, 34, 36 Kräuterjoghurt 28, 34, 37 dazu Salat"
+    }
+  ],
+  "06.09.2022": [
+    {
+      "_id": 1,
+      "description": "#Spaghetti \"Napoli\" A, 511, 30 mit geriebenen Käse 19, 21 Erdbeerquark 28, 34"
+    },
+    {
+      "_id": 2,
+      "description": "Gulasch vom Schwein 36 Mischgemüse 28, 34 und Kartoffeln"
+    },
+    {
+      "_id": 3,
+      "description": "gebackener Leberkäse mit Bayrisch Kraut und Kartoffeln"
+    }
+  ],
+  "07.09.2022": [
+    {
+      "_id": 1,
+      "description": "Eierkuchen A, 511, 28, 30, 34, 36 mit Apfelmus 2 und Soße mit Vanillegeschmack 28, 34, 12"
+    },
+    {
+      "_id": 2,
+      "description": "hausgemachte Frikadelle A, 511, 28, 30, 34, 36, 37 mit Bohnengemüse und Kartoffeln"
+    },
+    {
+      "_id": 3,
+      "description": "Chili con Carne mit Kidneybohnen A, 511, 12 und Reis dazu Salat"
+    }
+  ],
+  "08.09.2022": [
+    {
+      "_id": 1,
+      "description": "gekochte Eier 30 und Kartoffeln mit Senfsoße A, 511, 37, 12 Möhrensalat"
+    },
+    {
+      "_id": 2,
+      "description": "paniertes Rotbarschfilet A, 511, 30, 31 und Kartoffeln Joghurt- Remouladensoße 28, 30, 34, 37, 2, 4, 12 dazu Salat"
+    },
+    {
+      "_id": 3,
+      "description": "Currywurstpfanne A, 511, 1, 2, 12, 16 Pommes dazu Salat"
+    }
+  ],
+  "09.09.2022": [
+    {
+      "_id": 1,
+      "description": "Kohlrabi-Kartoffelsuppe mit frischer Petersilie 28, 34, 12 Becher-Dessert 28, 34, 7, 10"
+    },
+    {
+      "_id": 2,
+      "description": "Königsberger Klopse 30 und Kartoffeln mit Kapernsoße A, 511, 28, 34, 37, 39, 2, 12"
+    },
+    {
+      "_id": 3,
+      "description": "LPG Schnitzel (gratiniert mit Sauerkraut und Käse) A, 511, 34 dazu Bratkartoffeln"
+    }
+  ],
+  "(A) Glutenhaltiges Getreide und -erzeugnisse, (511) Weizen und Weizenerzeugnisse, (28) Laktose, (30) Eier und -erzeugnisse, (31) Fisch und -erzeugnisse, (34) Milch und -erzeugnisse, (36) Sellerie und -erzeugnisse, (37) Senf und -erzeugnisse, (39) Schwefeldioxid und Sulfide in einer Konzentration von mehr als 10mg/kg oder 10/mg/l, als SO2 angegeben (1) mit Konservierungsstoff, (2) mit Antioxidationsmittel, (4) mit Süßungsmittel, (7) mit einer Zuckerart und Süßungsmitteln, (10) enthält eine Phenylalaninquelle, (12) mit Farbstoff, (16) mit Phosphat, (19) mit Milcheiweiß, (21) unter Verwendung von Milch": [],
+  "12.09.2022": [
+    {
+      "_id": 1,
+      "description": "deftige Erbsensuppe 36, 1, 2 Becher-Dessert 28, 34, 7, 10"
+    },
+    {
+      "_id": 2,
+      "description": "Tortellini in fruchtiger Tomatensoße A, 511, 28, 30, 34, 1, 2, 12 Bananenquark 28, 33, 34"
+    },
+    {
+      "_id": 3,
+      "description": "paniertes Schweineschnitzel A, 511, 30, 20 Schwäbische Spätzle A, 511, 30 mit Rucola-Tomatensoße A, 511, 12"
+    }
+  ],
+  "13.09.2022": [
+    {
+      "_id": 1,
+      "description": "Blumenkohl-Käsemedaillion A, 511, 28, 30, 34 und Kartoffelpüree 28, 34 mit Kräutersoße A, 511, 28, 34, 12"
+    },
+    {
+      "_id": 2,
+      "description": "Schweineroulade 37, 1, 2 Mischgemüse 28, 34 und Kartoffeln mit Bratensoße"
+    },
+    {
+      "_id": 3,
+      "description": "marinierter Hering A, 511, 28, 30, 31, 34, 37, 1, 3, 4, 6 und Kartoffeln Joghurt- Remouladensoße 28, 30, 34, 37, 2, 4, 12"
+    }
+  ],
+  "14.09.2022": [
+    {
+      "_id": 1,
+      "description": "Hefeklöße A, 511, 28, 30, 34 und Soße mit Vanillegeschmack 28, 34, 12 mit Beerensoße 12"
+    },
+    {
+      "_id": 2,
+      "description": "Hähnchengeschnetzeltes A, 511, 28, 34, 12 Reisnudeln A, 511, 30 mit Kräutersoße A, 511, 28, 34, 12"
+    },
+    {
+      "_id": 3,
+      "description": "Pizzahackbraten 36, 19, 21 und Kartoffelpüree 28, 34 mit Tomatensoße A, 511, 12"
+    }
+  ],
+  "15.09.2022": [
+    {
+      "_id": 1,
+      "description": "Rührei 30 und Kartoffeln mit Kräutersoße A, 511, 28, 34, 12 Gurkensalat"
+    },
+    {
+      "_id": 2,
+      "description": "Seelachsfilet \" Bordolaise \" A, 511, 31 und Kartoffeln Dillsoße A, 511, 12"
+    },
+    {
+      "_id": 3,
+      "description": "Kohlroulade 28, 34, 37 und Kartoffeln mit reichlich Kohlsoße"
+    }
+  ],
+  "16.09.2022": [
+    {
+      "_id": 1,
+      "description": "Wirsingkohleintopf Rindfleisch 1, 2 Becher-Dessert 28, 34, 7, 10"
+    },
+    {
+      "_id": 2,
+      "description": "Lasagne Bolognese A, 511, 30, 31, 33, 34, 37 Gemüse Ratatouille 43 dazu Salat"
+    },
+    {
+      "_id": 3,
+      "description": "Grillgemüse 12 Pesto 28, 34, 35, 594 und Reis"
+    }
+  ],
+  "(A) Glutenhaltiges Getreide und -erzeugnisse, (511) Weizen und Weizenerzeugnisse, (28) Laktose, (30) Eier und -erzeugnisse, (31) Fisch und -erzeugnisse, (33) Soja und -erzeugnisse, (34) Milch und -erzeugnisse, (35) Schalenfrüchte und -erzeugnisse, (594) Cashewnüsse und Cashewnusserzeugnisse, (36) Sellerie und -erzeugnisse, (37) Senf und -erzeugnisse (1) mit Konservierungsstoff, (2) mit Antioxidationsmittel, (3) mit Geschmacksverstärker, (4) mit Süßungsmittel, (6) mit einer Zuckerart und Süßungsmittel, (7) mit einer Zuckerart und Süßungsmitteln, (10) enthält eine Phenylalaninquelle, (12) mit Farbstoff, (19) mit Milcheiweiß, (20) mit Eiklar, (21) unter Verwendung von Milch, (43) enthält keine deklarationspflichtigen Zusatzstoffe": [],
+  "19.09.2022": [
+    {
+      "_id": 1,
+      "description": "Tomatensuppe A, 511, 12 und Reis Becher-Dessert 28, 34, 7, 10"
+    },
+    {
+      "_id": 2,
+      "description": "Spirelli \"Carbonara\" (Schinken-Sahnesoße) A, 511, 28, 34, 1, 2, 12, 16 dazu Salat"
+    },
+    {
+      "_id": 3,
+      "description": "paniertes Schweineschnitzel A, 511, 30, 20 mit Spiegelei 30 Kartoffelsalat 37, 1 dazu Salat"
+    }
+  ],
+  "20.09.2022": [
+    {
+      "_id": 1,
+      "description": "Makkaroni A, 511, 30 Tomaten-Wurstgulasch A, 511, 36, 37, 1, 2, 12, 16 dazu Salat"
+    },
+    {
+      "_id": 2,
+      "description": "mit Hackfleisch gefüllte Paprikaschote A, 511 und Reis mit Paprikasoße A, 511, 12"
+    },
+    {
+      "_id": 3,
+      "description": "Gemüse-Maultaschen A, 511, 30, 36 mit geschmelzte Zwiebeln 12 Rucola-Tomatensalat"
+    }
+  ],
+  "21.09.2022": [
+    {
+      "_id": 1,
+      "description": "Milchreis 28, 34, 12 mit Apfelmus 2 und Zucker - Zimt - Mischung"
+    },
+    {
+      "_id": 2,
+      "description": "Rinderbraten Rotkohl und Kartoffelklößen 39, 1, 2"
+    },
+    {
+      "_id": 3,
+      "description": "Balkan Salatteller mit Hirtenkäse und Oliven 28, 34, 15 Knoblauchbrot A, 511, 28, 34, 12"
+    }
+  ],
+  "22.09.2022": [
+    {
+      "_id": 1,
+      "description": "Kräuterquark 28, 34 und Kartoffeln Apfel Frischobst 14"
+    },
+    {
+      "_id": 2,
+      "description": "Knusper-Seelachsfilet mit Käse-Kräuterfüllung A, 511, 30, 31, 34, 37 Kartoffelgratin 28, 30, 34, 19, 21"
+    },
+    {
+      "_id": 3,
+      "description": "Schweinesteak \"Melba\" (mit Pfirsich gratiniert) 34 und Reis Currysoße A, 511, 12"
+    }
+  ],
+  "23.09.2022": [
+    {
+      "_id": 1,
+      "description": "Gulaschsuppe mit Kartoffelwürfeln 36 Becher-Dessert 28, 34, 7, 10"
+    },
+    {
+      "_id": 2,
+      "description": "Blattspinat- Nudelauflauf A, 511, 19, 21 dazu Salat"
+    },
+    {
+      "_id": 3,
+      "description": "Rostbratwurst 36, 37, 16 mit Sauerkraut und Kartoffeln"
+    }
+  ],
+  "(A) Glutenhaltiges Getreide und -erzeugnisse, (511) Weizen und Weizenerzeugnisse, (28) Laktose, (30) Eier und -erzeugnisse, (31) Fisch und -erzeugnisse, (34) Milch und -erzeugnisse, (36) Sellerie und -erzeugnisse, (37) Senf und -erzeugnisse, (39) Schwefeldioxid und Sulfide in einer Konzentration von mehr als 10mg/kg oder 10/mg/l, als SO2 angegeben (1) mit Konservierungsstoff, (2) mit Antioxidationsmittel, (7) mit einer Zuckerart und Süßungsmitteln, (10) enthält eine Phenylalaninquelle, (12) mit Farbstoff, (14) gewachst, (15) geschwärzt, (16) mit Phosphat, (19) mit Milcheiweiß, (20) mit Eiklar, (21) unter Verwendung von Milch": [],
+  "26.09.2022": [
+    {
+      "_id": 1,
+      "description": "Kohlrabi-Kartoffelsuppe mit frischer Petersilie 28, 34, 12 Becher-Dessert 28, 34, 7, 10"
+    },
+    {
+      "_id": 2,
+      "description": "paniertes Schweineschnitzel A, 511, 30, 20 Mischgemüse 28, 34 und Kartoffeln"
+    },
+    {
+      "_id": 3,
+      "description": "Eier Omelett 30, 34, 17, 19 Champignonsoße A, 511, 28, 34, 12 Kartoffel-Frischkäsetasche 28, 34"
+    }
+  ],
+  "27.09.2022": [
+    {
+      "_id": 1,
+      "description": "Eierragout mit feinem Gemüse A, 511, 30, 12 und Kartoffeln dazu Salat"
+    },
+    {
+      "_id": 2,
+      "description": "Schupfnudel-Gemüsepfanne A, 511, 30, 12 mit Kräuter-Käsesoße A, 511, 28, 33, 34, 12 Gurkensticks"
+    },
+    {
+      "_id": 3,
+      "description": "Putenschnitzel Kaisergemüse und Kartoffeln mit Bratensoße"
+    }
+  ],
+  "28.09.2022": [
+    {
+      "_id": 1,
+      "description": "Kartoffelpuffer A, 511, 30 mit Apfelmus 2"
+    },
+    {
+      "_id": 2,
+      "description": "gegrillte Hähnchenstreifen Gemüse-Bandnudel-Pfanne A, 511, 30 Spinat-Käsesoße A, 511, 28, 33, 34, 12"
+    },
+    {
+      "_id": 3,
+      "description": "gekochtes Rindfleisch und Kartoffelklößen 39, 1, 2 mit Meerrettichsoße A, 511, 28, 34, 39, 2, 12"
+    }
+  ],
+  "29.09.2022": [
+    {
+      "_id": 1,
+      "description": "Rahmspinat 28, 34 Kräuter- Rührei 30 und Kartoffeln Apfel Frischobst 14"
+    },
+    {
+      "_id": 2,
+      "description": "Grillfischfilet \"Italiano\" 28, 31, 34 mit geriebenen Käse 19, 21 gebratene Kartoffelgnocchi mit Kräuter-Käsesoße A, 511, 28, 33, 34, 12"
+    },
+    {
+      "_id": 3,
+      "description": "Grützwurst mit Sauerkraut und Kartoffeln"
+    }
+  ],
+  "30.09.2022": [
+    {
+      "_id": 1,
+      "description": "Linsensuppe 36 mit Rotwurstwürfel 37, 1, 2 Becher-Dessert 28, 34, 7, 10"
+    },
+    {
+      "_id": 2,
+      "description": "Kasselerbraten 1, 2 #Schweinebraten 28, 34 und Kartoffeln"
+    },
+    {
+      "_id": 3,
+      "description": "Grillgemüse 12 Reisnudeln A, 511, 30 leichte Sahnesoße 28, 34, 12 dazu Salat"
+    }
+  ],
+  "(A) Glutenhaltiges Getreide und -erzeugnisse, (511) Weizen und Weizenerzeugnisse, (28) Laktose, (30) Eier und -erzeugnisse, (31) Fisch und -erzeugnisse, (33) Soja und -erzeugnisse, (34) Milch und -erzeugnisse, (36) Sellerie und -erzeugnisse, (37) Senf und -erzeugnisse, (39) Schwefeldioxid und Sulfide in einer Konzentration von mehr als 10mg/kg oder 10/mg/l, als SO2 angegeben (1) mit Konservierungsstoff, (2) mit Antioxidationsmittel, (7) mit einer Zuckerart und Süßungsmitteln, (10) enthält eine Phenylalaninquelle, (12) mit Farbstoff, (14) gewachst, (17) mit Milchpulver, (19) mit Milcheiweiß, (20) mit Eiklar, (21) unter Verwendung von Milch": [],
+  "": [
+    {
+      "_id": 1,
+      "description": "Kantine A"
+    },
+    {
+      "_id": 2,
+      "description": "Kantine B"
+    },
+    {
+      "_id": 3,
+      "description": "Kantinen C"
+    }
+  ],
+  "03.10.2022": [],
+  "04.10.2022": [
+    {
+      "_id": 1,
+      "description": "Eierragout mit feinem Gemüse A, 511, 30, 12 Kartoffeln"
+    },
+    {
+      "_id": 2,
+      "description": "Spirelli \"Carbonara\" (Schinken-Sahnesoße) A, 511, 28, 34, 1, 2, 12, 16 und Spirelli A, 511"
+    },
+    {
+      "_id": 3,
+      "description": "Schweineleber-Ragout 93, 28, 34, 39 mit geschmelzte Zwiebeln 12 und Kartoffelpüree 28, 34 dazu Salat"
+    }
+  ],
+  "05.10.2022": [
+    {
+      "_id": 1,
+      "description": "Grießbrei A, 511, 28, 34 und Zucker - Zimt - Mischung Fruchtgrütze"
+    },
+    {
+      "_id": 2,
+      "description": "paniertes Schweineschnitzel A, 511, 30, 20 mit Bohnengemüse Kartoffeln und Bratensoße"
+    },
+    {
+      "_id": 3,
+      "description": "Gemüsefrikadelle A, 511, 36 Rahm-Blumenkohl 28, 34 Schwäbische Spätzle A, 511, 30 dazu Salat"
+    }
+  ],
+  "06.10.2022": [
+    {
+      "_id": 1,
+      "description": "Rührei 30 Kartoffeln mit Kräutersoße A, 511, 28, 34, 12 Gurkensalat"
+    },
+    {
+      "_id": 2,
+      "description": "Alaska- Grillfischfilet 31 Kräuter-Pfannengemüse und Kartoffelpüree 28, 34 mit Kräutersoße A, 511, 28, 34, 12"
+    },
+    {
+      "_id": 3,
+      "description": "Schweinesteak A, 511, 30, 34, 36, 37 Letscho Röstkartoffeln dazu Salat"
+    }
+  ],
+  "07.10.2022": [
+    {
+      "_id": 1,
+      "description": "Süßkartoffel-Kürbissuppe mit feinen Gemüsewürfel Becher-Dessert 28, 34, 7, 10"
+    },
+    {
+      "_id": 2,
+      "description": "mexikanisches Geschnetzeltes A, 511, 28, 34, 12 Tomatenreis"
+    },
+    {
+      "_id": 3,
+      "description": "Schupfnudel-Gemüsepfanne A, 511, 30, 12 Basilikum-Tomatenensoße A, 511, 12 dazu Salat"
+    }
+  ],
+  "(93) unter Verwendung von Alkohol, (A) Glutenhaltiges Getreide und -erzeugnisse, (511) Weizen und Weizenerzeugnisse, (28) Laktose, (30) Eier und -erzeugnisse, (31) Fisch und -erzeugnisse, (34) Milch und -erzeugnisse, (36) Sellerie und -erzeugnisse, (37) Senf und -erzeugnisse, (39) Schwefeldioxid und Sulfide in einer Konzentration von mehr als 10mg/kg oder 10/mg/l, als SO2 angegeben (1) mit Konservierungsstoff, (2) mit Antioxidationsmittel, (7) mit einer Zuckerart und Süßungsmitteln, (10) enthält eine Phenylalaninquelle, (12) mit Farbstoff, (16) mit Phosphat, (20) mit Eiklar": [],
+  "10.10.2022": [
+    {
+      "_id": 1,
+      "description": "Kartoffelsuppe 36 Wiener 1, 2, 16 Becher-Dessert 28, 34, 7, 10"
+    },
+    {
+      "_id": 2,
+      "description": "Schweinschnitzel Cordon Blue A, 511, 30, 34, 1, 2, 19, 20 Rahm-Champignon A, 511, 12 gebratene Kartoffelgnocchi"
+    },
+    {
+      "_id": 3,
+      "description": "Spätzle-Gemüsepfanne A, 511, 512, 28, 30, 34 Spinat-Käsesoße A, 511, 28, 33, 34, 12 dazu Salat"
+    }
+  ],
+  "11.10.2022": [
+    {
+      "_id": 1,
+      "description": "gekochte Eier 30 Kartoffeln mit Senfsoße A, 511, 37, 12 dazu Salat"
+    },
+    {
+      "_id": 2,
+      "description": "gemischter Gulasch 36 Makkaroni A, 511, 30 Möhrensalat"
+    },
+    {
+      "_id": 3,
+      "description": "gefüllte Zucchini (mit Gemüse und Käse) 19, 21 Gemüsereis mit Paprikasoße A, 511, 12"
+    }
+  ],
+  "12.10.2022": [
+    {
+      "_id": 1,
+      "description": "Milchreis 28, 34, 12 mit Apfelmus 2 und Zucker - Zimt - Mischung"
+    },
+    {
+      "_id": 2,
+      "description": "Königsberger Klopse 30 Kartoffeln mit Kapernsoße A, 511, 28, 34, 37, 39, 2, 12 dazu Salat"
+    },
+    {
+      "_id": 3,
+      "description": "gekochtes Rindfleisch und Kartoffelklößen 39, 1, 2 mit Meerrettichsoße A, 511, 28, 34, 39, 2, 12 dazu Salat"
+    }
+  ],
+  "13.10.2022": [
+    {
+      "_id": 1,
+      "description": "Hackfleischstippe 36, 4 und Kartoffelpüree 28, 34 dazu Salat"
+    },
+    {
+      "_id": 2,
+      "description": "Grillfischfilet \"Italiano\" 28, 31, 34 Bandnudeln A, 511, 30 in Tomaten-Kräutersoße A, 511, 12"
+    },
+    {
+      "_id": 3,
+      "description": "mit Ricottakäse gefüllte Tortellini A, 511, 28, 30, 34 Bärlauch-Käsesoße A, 511, 28, 33, 34, 12 dazu Salat"
+    }
+  ],
+  "14.10.2022": [
+    {
+      "_id": 1,
+      "description": "Grühnkohlsuppe 2 Becher-Dessert 28, 34, 7, 10"
+    },
+    {
+      "_id": 2,
+      "description": "Rostbratwurst 36, 37, 16 geschwenkten Möhren Kartoffeln dazu Salat"
+    },
+    {
+      "_id": 3,
+      "description": "Kartoffelgratin mit knackigem Gemüse 28, 30, 34, 19, 21 dazu Salat"
+    }
+  ],
+  "(A) Glutenhaltiges Getreide und -erzeugnisse, (511) Weizen und Weizenerzeugnisse, (512) Dinkel und Dinkelerzeugnisse, (28) Laktose, (30) Eier und -erzeugnisse, (31) Fisch und -erzeugnisse, (33) Soja und -erzeugnisse, (34) Milch und -erzeugnisse, (36) Sellerie und -erzeugnisse, (37) Senf und -erzeugnisse, (39) Schwefeldioxid und Sulfide in einer Konzentration von mehr als 10mg/kg oder 10/mg/l, als SO2 angegeben (1) mit Konservierungsstoff, (2) mit Antioxidationsmittel, (4) mit Süßungsmittel, (7) mit einer Zuckerart und Süßungsmitteln, (10) enthält eine Phenylalaninquelle, (12) mit Farbstoff, (16) mit Phosphat, (19) mit Milcheiweiß, (20) mit Eiklar, (21) unter Verwendung von Milch": [],
+  "17.10.2022": [
+    {
+      "_id": 1,
+      "description": "Graupensuppe mit Rindfleisch A, 515, 36 Becher-Dessert 28, 34, 7, 10"
+    },
+    {
+      "_id": 2,
+      "description": "Rinderroulade 28, 34, 37, 1, 2 Rotkohl und Kartoffelklößen 39, 1, 2"
+    },
+    {
+      "_id": 3,
+      "description": "Allgäuer Käsespätzle A, 511, 28, 30, 34, 12 Röstzwiebeln 12 Rucola-Tomatensalat"
+    }
+  ],
+  "18.10.2022": [
+    {
+      "_id": 1,
+      "description": "gebratene Kartoffelgnocchi Rucola-Waldpilz Soße A, 511, 12 dazu Salat"
+    },
+    {
+      "_id": 2,
+      "description": "Jägerschnitzel A, 511, 37, 1, 2 und Spirelli A, 511 mit Tomatensoße A, 511, 12 dazu Salat"
+    },
+    {
+      "_id": 3,
+      "description": "gebraten Knacker 37 mit Grünkohl und A, 511 Kartoffeln"
+    }
+  ],
+  "19.10.2022": [
+    {
+      "_id": 1,
+      "description": "Hefeklöße A, 511, 28, 30, 34 mit Beerensoße 12 und Soße mit Vanillegeschmack 28, 34, 12"
+    },
+    {
+      "_id": 2,
+      "description": "Kasselerbraten 1, 2 mit Sauerkraut Kartoffeln"
+    },
+    {
+      "_id": 3,
+      "description": "Gyrosgeschnetzeltes 93, A, 511, 28, 34, 12 Tzatziki 28, 34 Pommes Krautsalat 2"
+    }
+  ],
+  "20.10.2022": [
+    {
+      "_id": 1,
+      "description": "Rührei 30 gebräunte Butter 28, 34 und Kartoffelpüree 28, 34 Gurkensalat"
+    },
+    {
+      "_id": 2,
+      "description": "Backfisch A, 511, 30, 31, 34, 37 Kartoffelsalat 37, 1 dazu Salat"
+    },
+    {
+      "_id": 3,
+      "description": "Hirschgulasch 93, 39 Rotkohl böhmische Knödel A, 511, 30, 34, 17, 19"
+    }
+  ],
+  "21.10.2022": [
+    {
+      "_id": 1,
+      "description": "Nudelsuppe mit Hühnerfleisch A, 511, 30 Becher-Dessert 28, 34, 7, 10"
+    },
+    {
+      "_id": 2,
+      "description": "Hühnerfrikasse 28, 34 mit Reis und Becher-Dessert 28, 34, 7, 10"
+    },
+    {
+      "_id": 3,
+      "description": "Blumenkohl und Brokkoli-Rahm 28, 34 Kartoffeln dazu Salat"
+    }
+  ],
+  "(93) unter Verwendung von Alkohol, (A) Glutenhaltiges Getreide und -erzeugnisse, (511) Weizen und Weizenerzeugnisse, (515) Gerste und Gersteerzeugnisse, (28) Laktose, (30) Eier und -erzeugnisse, (31) Fisch und -erzeugnisse, (34) Milch und -erzeugnisse, (36) Sellerie und -erzeugnisse, (37) Senf und -erzeugnisse, (39) Schwefeldioxid und Sulfide in einer Konzentration von mehr als 10mg/kg oder 10/mg/l, als SO2 angegeben (1) mit Konservierungsstoff, (2) mit Antioxidationsmittel, (7) mit einer Zuckerart und Süßungsmitteln, (10) enthält eine Phenylalaninquelle, (12) mit Farbstoff, (17) mit Milchpulver, (19) mit Milcheiweiß": [],
+  "24.10.2022": [
+    {
+      "_id": 1,
+      "description": "Möhreneintopf mit Hühnerfleisch Becher-Dessert 28, 34, 7, 10"
+    },
+    {
+      "_id": 2,
+      "description": "Pizzaschnitzel (Tomate,Käse,Salami) A, 511, 30, 34, 12, 20 Tellerrösti dazu Salat"
+    },
+    {
+      "_id": 3,
+      "description": "gebratene Kartoffelgnocchi mit Zitronen-Buttersoße A, 511, 28, 34, 12 Krautsalat 2"
+    }
+  ],
+  "25.10.2022": [
+    {
+      "_id": 1,
+      "description": "Rahmspinat 28, 34 Rührei 30 Kartoffeln"
+    },
+    {
+      "_id": 2,
+      "description": "Gabelspaghetti A, 511, 30 Rindfleisch-Bolognese A, 511, 36, 12 mit geriebenen Käse 19, 21 dazu Salat"
+    },
+    {
+      "_id": 3,
+      "description": "marinierter Hering Matjes Art A, 511, 28, 30, 31, 34, 37, 1, 3, 4, 6 Kartoffeln Joghurt- Remouladensoße 28, 30, 34, 37, 2, 4, 12"
+    }
+  ],
+  "26.10.2022": [
+    {
+      "_id": 1,
+      "description": "Kaiserschmarrn ohne Rosinen A, 511, 30, 34, 17, 19 mit Apfelmus 2 und Soße mit Vanillegeschmack 28, 34, 12"
+    },
+    {
+      "_id": 2,
+      "description": "Hähnchenbrust \"Hawaii\" 33 mit Reis und Currysoße A, 511, 12"
+    },
+    {
+      "_id": 3,
+      "description": "Grillhaxen A, 511, 36, 37, 16 mit Bayrisch Kraut Erbspüree dazu Salat"
+    }
+  ],
+  "27.10.2022": [
+    {
+      "_id": 1,
+      "description": "Kräuterquark 28, 34 Kartoffeln dazu Salat"
+    },
+    {
+      "_id": 2,
+      "description": "gegrilltes Seelachsfilet 31 Möhren-Kartoffelpüree 28, 34 mit Kräutersoße A, 511, 28, 34, 12"
+    },
+    {
+      "_id": 3,
+      "description": "Currywurst 1, 2, 16 Pommes dazu Salat"
+    }
+  ],
+  "28.10.2022": [
+    {
+      "_id": 1,
+      "description": "Grüner-Bohneneitopf mit Rauchfleisch 1, 2 Becher-Dessert 28, 34, 7, 10"
+    },
+    {
+      "_id": 2,
+      "description": "Bratwürstchenpfanne 34, 36, 37 und Kartoffelpüree 28, 34 dazu Salat"
+    },
+    {
+      "_id": 3,
+      "description": "Blattspinat- Nudelauflauf A, 511, 19, 21 dazu Salat"
+    }
+  ],
+  "(A) Glutenhaltiges Getreide und -erzeugnisse, (511) Weizen und Weizenerzeugnisse, (28) Laktose, (30) Eier und -erzeugnisse, (31) Fisch und -erzeugnisse, (33) Soja und -erzeugnisse, (34) Milch und -erzeugnisse, (36) Sellerie und -erzeugnisse, (37) Senf und -erzeugnisse (1) mit Konservierungsstoff, (2) mit Antioxidationsmittel, (3) mit Geschmacksverstärker, (4) mit Süßungsmittel, (6) mit einer Zuckerart und Süßungsmittel, (7) mit einer Zuckerart und Süßungsmitteln, (10) enthält eine Phenylalaninquelle, (12) mit Farbstoff, (16) mit Phosphat, (17) mit Milchpulver, (19) mit Milcheiweiß, (20) mit Eiklar, (21) unter Verwendung von Milch": []
 }
