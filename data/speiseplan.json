@@ -13,290 +13,6 @@
       "description": "Kantinen C"
     }
   ],
-  "06.03.2023": [
-    {
-      "_id": 1,
-      "description": "Linsensuppe 36 mit Rotwurstwürfel (separat) 37, 1, 2 dazu Becher-Dessert 28, 34, 7, 10"
-    },
-    {
-      "_id": 2,
-      "description": "Gemüse-Knusperbagel A, 511, 512, 36 in Tomaten-Kräutersoße A, 511, 12 mit Gemüse-Couscous A, 511, 36 dazu Knabbergemüse"
-    },
-    {
-      "_id": 3,
-      "description": "Pizzaschnitzel (Tomate,Käse,Salami) A, 511, 30, 34, 12, 20 auf Tellerrösti dazu Rohkostsalat 2"
-    }
-  ],
-  "07.03.2023": [
-    {
-      "_id": 1,
-      "description": "Süßkartoffelpuffer 39, 1, 2 und Kräuterquark 28, 34 dazu Rohkostsalat 2"
-    },
-    {
-      "_id": 2,
-      "description": "Gabelspaghetti A, 511, 30 in Bolognesesoße A, 511, 36, 12 mit geriebenen Käse 19, 21 dazu Gurkensalat"
-    },
-    {
-      "_id": 3,
-      "description": "gebratene Rindsleber A, 511 mit Zwiebelsoße und Kartoffelpüree 28, 34"
-    }
-  ],
-  "08.03.2023": [
-    {
-      "_id": 1,
-      "description": "Grießbrei A, 511, 28, 34 mit Zucker und Zimt und Erdbeersoße 12, 43"
-    },
-    {
-      "_id": 2,
-      "description": "Rostbratwurst 36, 37, 16 mit Sauerkraut und Kartoffelpüree 28, 34"
-    },
-    {
-      "_id": 3,
-      "description": "Gemüse-Kartoffelauflauf 28, 30, 34, 19, 21 mit Blattspinat und Gouda 19, 21 dazu Krautsalat 2"
-    }
-  ],
-  "09.03.2023": [
-    {
-      "_id": 1,
-      "description": "gekochte Eier 30 mit Senfsoße A, 511, 37, 12 und Kartoffeln dazu Rohkostsalat 2"
-    },
-    {
-      "_id": 2,
-      "description": "paniertes Seelachsfilet A, 511, 31 mit Kartoffelsalat 37, 1 dazu Rohkostsalat 2"
-    },
-    {
-      "_id": 3,
-      "description": "Schweinesteak A, 511, 30, 34, 36, 37 mit Letschosoße A, 511, 12 und Bratkartoffeln"
-    }
-  ],
-  "10.03.2023": [
-    {
-      "_id": 1,
-      "description": "Reiseintopf mit Hühnerfleisch 36, 2 dazu Brot A, 511, 514 dazu Becher-Dessert 28, 34, 7, 10"
-    },
-    {
-      "_id": 2,
-      "description": "China-Gemüsepfanne 12 mit Reis dazu Rote-Bete-Salat 4"
-    },
-    {
-      "_id": 3,
-      "description": "Rinder-Hacksteak A, 511, 28, 30, 34, 36, 37 mit Zuckerschoten und Kürbis-Kartoffelpüree 28, 34 dazu Rote-Bete-Salat 4"
-    }
-  ],
-  "(A) Glutenhaltiges Getreide und -erzeugnisse, (511) Weizen und Weizenerzeugnisse, (512) Dinkel und Dinkelerzeugnisse, (514) Roggen und Roggenerzeugnisse, (28) Laktose, (30) Eier und -erzeugnisse, (31) Fisch und -erzeugnisse, (34) Milch und -erzeugnisse, (36) Sellerie und -erzeugnisse, (37) Senf und -erzeugnisse, (39) Schwefeldioxid und Sulfide in einer Konzentration von mehr als 10mg/kg oder 10/mg/l, als SO2 angegeben (1) mit Konservierungsstoff, (2) mit Antioxidationsmittel, (4) mit Süßungsmittel, (7) mit einer Zuckerart und Süßungsmitteln, (10) enthält eine Phenylalaninquelle, (12) mit Farbstoff, (16) mit Phosphat, (19) mit Milcheiweiß, (20) mit Eiklar, (21) unter Verwendung von Milch, (43) enthält keine deklarationspflichtigen Zusatzstoffe": [],
-  "13.03.2023": [
-    {
-      "_id": 1,
-      "description": "Soljanka mit Brötchen dazu Frischobst 14"
-    },
-    {
-      "_id": 2,
-      "description": "Schweineschnitzel A, 511, 30, 34, 36, 37 mit Mischgemüse 28, 34 und Kartoffeln"
-    },
-    {
-      "_id": 3,
-      "description": "gebratenes Käsesteak 28, 34 mit Spirelli A, 511 und Tomatensoße A, 511, 12 dazu Rohkostsalat 2"
-    }
-  ],
-  "14.03.2023": [
-    {
-      "_id": 1,
-      "description": "Sauce\"Carbonara\" A, 511, 28, 34, 12 und Hörnchennudeln A, 511, 30 dazu Frischobst 14"
-    },
-    {
-      "_id": 2,
-      "description": "Kasselerbraten 1, 2 mit Bohnengemüse und Kartoffeln"
-    },
-    {
-      "_id": 3,
-      "description": "Matjeshering A, 511, 28, 30, 31, 34, 37, 1, 3, 4, 6 in Joghurt-Remouladensoße 28, 30, 34, 37, 2, 4, 12 und Kartoffeln"
-    }
-  ],
-  "15.03.2023": [
-    {
-      "_id": 1,
-      "description": "Kaiserschmarrn mit Rosinen A, 511, 28, 30, 34 mit Apfelmus 2 und Soße mit Vanillegeschmack 28, 34, 12"
-    },
-    {
-      "_id": 2,
-      "description": "Cevapcici A, 511 in Metaxasoße 93, A, 511, 28, 34, 12 und Pommes Frites mit Tzatziki 28, 34 dazu Krautsalat 2"
-    },
-    {
-      "_id": 3,
-      "description": "Thailändisches Hähnchengeschetzeltes A, 511, 12 mit Curry-Kokos-Soße A, 511, 28, 34, 12 und Reis"
-    }
-  ],
-  "16.03.2023": [
-    {
-      "_id": 1,
-      "description": "Rührei 30 mit Kräutersoße A, 511, 28, 34, 12 und Kartoffeln dazu Gurkensalat"
-    },
-    {
-      "_id": 2,
-      "description": "gebr. Seelachsloinfilet A, 511, 31, 37, 17 mit Kräutersoße A, 511, 28, 34, 12 und Kartoffelpüree 28, 34 dazu Gurkensalat"
-    },
-    {
-      "_id": 3,
-      "description": "Currywurst 1, 2, 16 mit Currysoße A, 511, 28, 34, 12 und Pommes Frites"
-    }
-  ],
-  "17.03.2023": [
-    {
-      "_id": 1,
-      "description": "Frühlings-Gemüsesuppe 36 (aus Karotten, Pastinaken, Kohlrabi, Sellerie, Kartoffeln) dazu Brot A, 511, 514"
-    },
-    {
-      "_id": 2,
-      "description": "gegrillte Hähnchenbrust 33 auf Bio-Couscous A, 511 mit Erbsengemüse 12"
-    },
-    {
-      "_id": 3,
-      "description": "Szegediner Gulasch mit Kartoffeln dazu Becher-Dessert 28, 34, 7, 10"
-    }
-  ],
-  "(93) unter Verwendung von Alkohol, (A) Glutenhaltiges Getreide und -erzeugnisse, (511) Weizen und Weizenerzeugnisse, (514) Roggen und Roggenerzeugnisse, (28) Laktose, (30) Eier und -erzeugnisse, (31) Fisch und -erzeugnisse, (33) Soja und -erzeugnisse, (34) Milch und -erzeugnisse, (36) Sellerie und -erzeugnisse, (37) Senf und -erzeugnisse (1) mit Konservierungsstoff, (2) mit Antioxidationsmittel, (3) mit Geschmacksverstärker, (4) mit Süßungsmittel, (6) mit einer Zuckerart und Süßungsmittel, (7) mit einer Zuckerart und Süßungsmitteln, (10) enthält eine Phenylalaninquelle, (12) mit Farbstoff, (14) gewachst, (16) mit Phosphat, (17) mit Milchpulver": [],
-  "20.03.2023": [
-    {
-      "_id": 1,
-      "description": "Süßkartoffel-Möhreneintopf mit Hühnerfleisch dazu Brot A, 511, 514 dazu Becher-Dessert 28, 34, 7, 10"
-    },
-    {
-      "_id": 2,
-      "description": "Königsberger Klopse 30 in Kapernsoße A, 511, 28, 34, 37, 39, 2, 12 mit Kartoffeln dazu Frischobst 14"
-    },
-    {
-      "_id": 3,
-      "description": "Allgäuer Käsespätzle A, 511, 28, 30, 34, 12 mit Tomatensalat"
-    }
-  ],
-  "21.03.2023": [
-    {
-      "_id": 1,
-      "description": "Eierragout mit Gemüse A, 511, 30, 12 mit Petersilienkartoffeln dazu Frischobst 14"
-    },
-    {
-      "_id": 2,
-      "description": "Jägerschnitzel A, 511, 37, 1, 2 mit Tomatensoße A, 511, 12 und Spirelli A, 511"
-    },
-    {
-      "_id": 3,
-      "description": "Wildgulasch 93, 39 mit Rosenkohl 28, 34 und Knödelscheiben 39, 1, 2"
-    }
-  ],
-  "22.03.2023": [
-    {
-      "_id": 1,
-      "description": "Milchreis 28, 34, 12 mit Zucker und Zimt und Apfelmus 2"
-    },
-    {
-      "_id": 2,
-      "description": "Putengeschnetzeltes mit feinem Gemüse mit Reis dazu Rohkostsalat 2"
-    },
-    {
-      "_id": 3,
-      "description": "Kohlroulade 28, 34, 37 mit Kohlsoße und Kartoffeln"
-    }
-  ],
-  "23.03.2023": [
-    {
-      "_id": 1,
-      "description": "Rahmspinat 28, 34 mit Rührei 30 und Kartoffeln"
-    },
-    {
-      "_id": 2,
-      "description": "Kräuter-Grillfischfilet A, 511, 30, 31, 37 mit Zitronen-Buttersoße A, 511, 28, 34, 12 auf Bandnudeln A, 511, 30 dazu Rohkostsalat 2"
-    },
-    {
-      "_id": 3,
-      "description": "Spanferkelrollbraten mit Bayrisch Kraut und Kartoffeln"
-    }
-  ],
-  "24.03.2023": [
-    {
-      "_id": 1,
-      "description": "Kartoffelsuppe 36 mit Würstchen A, 511, 30, 33, 34, 36, 37, 1, 16, 21 dazu Becher-Dessert 28, 34, 7, 10"
-    },
-    {
-      "_id": 2,
-      "description": "gemischter Gulasch 36 mit Kaiserschoten und Kartoffeln"
-    },
-    {
-      "_id": 3,
-      "description": "gebratene Kartoffelgnocchi auf Pesto-Rahmsoße A, 511, 28, 34, 36, 12 mit Rucola"
-    }
-  ],
-  "(93) unter Verwendung von Alkohol, (A) Glutenhaltiges Getreide und -erzeugnisse, (511) Weizen und Weizenerzeugnisse, (514) Roggen und Roggenerzeugnisse, (28) Laktose, (30) Eier und -erzeugnisse, (31) Fisch und -erzeugnisse, (33) Soja und -erzeugnisse, (34) Milch und -erzeugnisse, (36) Sellerie und -erzeugnisse, (37) Senf und -erzeugnisse, (39) Schwefeldioxid und Sulfide in einer Konzentration von mehr als 10mg/kg oder 10/mg/l, als SO2 angegeben (1) mit Konservierungsstoff, (2) mit Antioxidationsmittel, (7) mit einer Zuckerart und Süßungsmitteln, (10) enthält eine Phenylalaninquelle, (12) mit Farbstoff, (14) gewachst, (16) mit Phosphat, (21) unter Verwendung von Milch": [],
-  "27.03.2023": [
-    {
-      "_id": 1,
-      "description": "Graupensuppe mit Rindfleisch A, 515, 36 dazu Brot A, 511, 514 dazu Becher-Dessert 28, 34, 7, 10"
-    },
-    {
-      "_id": 2,
-      "description": "Hähnchenschnitzel in Knusperpanade A, 511 mit Kräuter-Pfannen-Möhren und Kartoffeln"
-    },
-    {
-      "_id": 3,
-      "description": "Brokkoli-Möhren-Bohnengemüse mit Kräutersoße A, 511, 28, 34, 12 und Kartoffelpüree 28, 34"
-    }
-  ],
-  "28.03.2023": [
-    {
-      "_id": 1,
-      "description": "Spaghetti \"Napoli\" A, 511, 30 mit geriebenen Käse 19, 21 (vegetarisch) dazu Rohkostsalat 2"
-    },
-    {
-      "_id": 2,
-      "description": "gebratene Boulette A, 511, 30, 20 mit Mischgemüse 28, 34 und Kartoffeln"
-    },
-    {
-      "_id": 3,
-      "description": "Schweinschnitzel \"Cordon Bleu\" A, 511, 30, 34, 1, 2, 19, 20 mit Pilzsoße und Spätzle A, 511, 30"
-    }
-  ],
-  "29.03.2023": [
-    {
-      "_id": 1,
-      "description": "Minieierkuchen A, 511, 28, 30, 34 mit Apfelmus 2 und Soße mit Vanillegeschmack 28, 34, 12"
-    },
-    {
-      "_id": 2,
-      "description": "Hühnerfrikasse 28, 34 mit Reis dazu Rohkostsalat 2"
-    },
-    {
-      "_id": 3,
-      "description": "Grützwurst mit Sauerkraut und Kartoffeln"
-    }
-  ],
-  "30.03.2023": [
-    {
-      "_id": 1,
-      "description": "Hackfleischstippe mit Gurkenstreifen 4 und Kartoffelpüree 28, 34 dazu Frischobst 14"
-    },
-    {
-      "_id": 2,
-      "description": "Kräuter-Grillfischfilet A, 511, 30, 31, 37 mit Kräutersoße A, 511, 28, 34, 12 und Kartoffeln dazu Gurkensalat"
-    },
-    {
-      "_id": 3,
-      "description": "Gemüsefrikadelle A, 511, 36 mit Erbsengemüse 12 Muschelnudeln A, 511, 30 und Currysoße A, 511, 28, 34, 12"
-    }
-  ],
-  "31.03.2023": [
-    {
-      "_id": 1,
-      "description": "deftige Erbsensuppe 36, 1, 2 mit Würstchen A, 511, 30, 33, 34, 36, 37, 1, 16, 21 dazu Becher-Dessert 28, 34, 7, 10"
-    },
-    {
-      "_id": 2,
-      "description": "gegrillte Hähnchenkeule mit Rotkohl und Kartoffeln"
-    },
-    {
-      "_id": 3,
-      "description": "Spinatlasagne A, 511, 28, 34 mit Paprikasoße A, 511, 12 dazu Rohkostsalat 2"
-    }
-  ],
-  "(A) Glutenhaltiges Getreide und -erzeugnisse, (511) Weizen und Weizenerzeugnisse, (514) Roggen und Roggenerzeugnisse, (515) Gerste und Gersteerzeugnisse, (28) Laktose, (30) Eier und -erzeugnisse, (31) Fisch und -erzeugnisse, (33) Soja und -erzeugnisse, (34) Milch und -erzeugnisse, (36) Sellerie und -erzeugnisse, (37) Senf und -erzeugnisse (1) mit Konservierungsstoff, (2) mit Antioxidationsmittel, (4) mit Süßungsmittel, (7) mit einer Zuckerart und Süßungsmitteln, (10) enthält eine Phenylalaninquelle, (12) mit Farbstoff, (14) gewachst, (16) mit Phosphat, (19) mit Milcheiweiß, (20) mit Eiklar, (21) unter Verwendung von Milch": [],
   "03.04.2023": [
     {
       "_id": 1,
@@ -564,5 +280,313 @@
       "description": "China-Gemüsepfanne 12 mit Mienudeln A, 511 und Soße süß-sauer dazu Rohkostsalat 2"
     }
   ],
-  "(A) Glutenhaltiges Getreide und -erzeugnisse, (511) Weizen und Weizenerzeugnisse, (512) Dinkel und Dinkelerzeugnisse, (514) Roggen und Roggenerzeugnisse, (28) Laktose, (30) Eier und -erzeugnisse, (31) Fisch und -erzeugnisse, (33) Soja und -erzeugnisse, (34) Milch und -erzeugnisse, (36) Sellerie und -erzeugnisse, (37) Senf und -erzeugnisse, (39) Schwefeldioxid und Sulfide in einer Konzentration von mehr als 10mg/kg oder 10/mg/l, als SO2 angegeben (1) mit Konservierungsstoff, (2) mit Antioxidationsmittel, (7) mit einer Zuckerart und Süßungsmitteln, (10) enthält eine Phenylalaninquelle, (12) mit Farbstoff, (16) mit Phosphat, (19) mit Milcheiweiß, (20) mit Eiklar, (21) unter Verwendung von Milch, (43) enthält keine deklarationspflichtigen Zusatzstoffe": []
+  "(A) Glutenhaltiges Getreide und -erzeugnisse, (511) Weizen und Weizenerzeugnisse, (512) Dinkel und Dinkelerzeugnisse, (514) Roggen und Roggenerzeugnisse, (28) Laktose, (30) Eier und -erzeugnisse, (31) Fisch und -erzeugnisse, (33) Soja und -erzeugnisse, (34) Milch und -erzeugnisse, (36) Sellerie und -erzeugnisse, (37) Senf und -erzeugnisse, (39) Schwefeldioxid und Sulfide in einer Konzentration von mehr als 10mg/kg oder 10/mg/l, als SO2 angegeben (1) mit Konservierungsstoff, (2) mit Antioxidationsmittel, (7) mit einer Zuckerart und Süßungsmitteln, (10) enthält eine Phenylalaninquelle, (12) mit Farbstoff, (16) mit Phosphat, (19) mit Milcheiweiß, (20) mit Eiklar, (21) unter Verwendung von Milch, (43) enthält keine deklarationspflichtigen Zusatzstoffe": [],
+  "01.05.2023": [],
+  "02.05.2023": [
+    {
+      "_id": 1,
+      "description": "Rührei 30 mit Kartoffelpüree 28, 34 und Kräutersoße A, 511, 28, 34, 12 dazu Gurkensalat"
+    },
+    {
+      "_id": 2,
+      "description": "Tomaten-Wurstgulasch A, 511, 36, 37, 1, 2, 12, 16 mit Makkaroni A, 511, 30"
+    },
+    {
+      "_id": 3,
+      "description": "gebackener Camembert A, 511, 28, 30, 34, 36 mit Preiselbeeren auf Tellerrösti dazu Rohkostsalat 2"
+    }
+  ],
+  "03.05.2023": [
+    {
+      "_id": 1,
+      "description": "Milchreis 28, 34, 12 mit Apfelmus 2 sowie Zucker und Zimt"
+    },
+    {
+      "_id": 2,
+      "description": "Hackbällchen \"Toskana\" A, 511, 28, 30, 34, 12, 20 auf Tomatensoße A, 511, 12 mit Reis und Kaiserschoten"
+    },
+    {
+      "_id": 3,
+      "description": "Sülze 36, 37 mit Remouladensoße 28, 30, 34, 37, 2, 4, 12 und Bratkartoffeln"
+    }
+  ],
+  "04.05.2023": [
+    {
+      "_id": 1,
+      "description": "Eierragout mit Gemüse A, 511, 30, 12 und Kartoffeln dazu Rohkostsalat 2"
+    },
+    {
+      "_id": 2,
+      "description": "paniertes Seelachsfilet A, 511, 31 mit Kartoffelsalat 37, 1 dazu Rohkostsalat 2"
+    },
+    {
+      "_id": 3,
+      "description": "Schweinesteak A, 511, 30, 34, 36, 37 mit Rahm-Champignons A, 511, 12 und Spätzle A, 511, 30"
+    }
+  ],
+  "05.05.2023": [
+    {
+      "_id": 1,
+      "description": "Gulaschsuppe mit Kartoffelwürfeln und feinem Gemüse 36 dazu Becher-Dessert 28, 34, 7, 10"
+    },
+    {
+      "_id": 2,
+      "description": "Nudeln A, 511, 30 mit Sauce \"Carbonara\" A, 511, 28, 34, 1, 2, 12, 16 und geriebenen Käse 19, 21 dazu Rohkostsalat 2"
+    },
+    {
+      "_id": 3,
+      "description": "Tortelliniauflauf mit Tomatenkäse und Zucchini A, 511, 28, 30, 33, 34, 12, 19, 21 dazu Rohkostsalat 2"
+    }
+  ],
+  "(A) Glutenhaltiges Getreide und -erzeugnisse, (511) Weizen und Weizenerzeugnisse, (28) Laktose, (30) Eier und -erzeugnisse, (31) Fisch und -erzeugnisse, (33) Soja und -erzeugnisse, (34) Milch und -erzeugnisse, (36) Sellerie und -erzeugnisse, (37) Senf und -erzeugnisse (1) mit Konservierungsstoff, (2) mit Antioxidationsmittel, (4) mit Süßungsmittel, (7) mit einer Zuckerart und Süßungsmitteln, (10) enthält eine Phenylalaninquelle, (12) mit Farbstoff, (16) mit Phosphat, (19) mit Milcheiweiß, (20) mit Eiklar, (21) unter Verwendung von Milch": [],
+  "08.05.2023": [
+    {
+      "_id": 1,
+      "description": "deftige Erbsensuppe 36, 1, 2 mit Würstchen A, 511, 30, 33, 34, 36, 37, 1, 16, 21 dazu Becher-Dessert 28, 34, 7, 10"
+    },
+    {
+      "_id": 2,
+      "description": "Schweineschnitzel gratiniert mit Spargel A, 511, 30, 34, 36, 37, 19, 21 und Sauce Hollandaise 28, 30, 34 auf Tellerrösti dazu Rohkostsalat 2"
+    },
+    {
+      "_id": 3,
+      "description": "Hirtenkäse 28, 34 auf Tellerrösti mit Tomate gratiniert dazu Rohkostsalat 2"
+    }
+  ],
+  "09.05.2023": [
+    {
+      "_id": 1,
+      "description": "Gemüsefrikadelle mit A, 511, 36 mit Kartoffel-Frischkäsetaschen 28, 34 und Kräuterquark 28, 34 dazu Rohkostsalat 2"
+    },
+    {
+      "_id": 2,
+      "description": "Gabelspaghetti A, 511, 30 mit kleinen Fleischklößchen 30, 20 und Tomatensoße A, 511, 12 dazu Frischobst 14"
+    },
+    {
+      "_id": 3,
+      "description": "Currywurst 1, 2, 16 mit Pommes Frites und Currysoße A, 511, 28, 34, 12 dazu Krautsalat 2"
+    }
+  ],
+  "10.05.2023": [
+    {
+      "_id": 1,
+      "description": "Eierkuchen A, 511, 28, 30, 34, 36 mit Apfelmus 2 und Soße mit Vanillegeschmack 28, 34, 12"
+    },
+    {
+      "_id": 2,
+      "description": "Königsberger Klopse 30 in Kapernsoße A, 511, 28, 34, 37, 39, 2, 12 dazu Kartoffeln"
+    },
+    {
+      "_id": 3,
+      "description": "hausgemachter Hackbraten A, 511, 28, 30, 34, 36, 37 mit Möhrengemüse und Kartoffeln"
+    }
+  ],
+  "11.05.2023": [
+    {
+      "_id": 1,
+      "description": "Rührei 30 mit Spinat 28, 34 und Kartoffeln"
+    },
+    {
+      "_id": 2,
+      "description": "gegrilltes Fischfilet 31 auf Kartoffelstampf 28, 34 und Dillsoße A, 511, 28, 34, 12"
+    },
+    {
+      "_id": 3,
+      "description": "Kasselerbraten 1, 2 mit Sauerkraut 1, 2 und Kartoffeln"
+    }
+  ],
+  "12.05.2023": [
+    {
+      "_id": 1,
+      "description": "Nudelsuppe mit Hühnerfleisch A, 511, 30 dazu Brot A, 511, 514 dazu Becher-Dessert 28, 34, 7, 10"
+    },
+    {
+      "_id": 2,
+      "description": "Hühnerfrikasse 28, 34 mit Gemüsereis dazu Frischobst 14"
+    },
+    {
+      "_id": 3,
+      "description": "Gemüse-Nudelauflauf A, 511, 28, 30, 33, 34, 36, 12, 19, 21 dazu Rohkostsalat 2"
+    }
+  ],
+  "(A) Glutenhaltiges Getreide und -erzeugnisse, (511) Weizen und Weizenerzeugnisse, (514) Roggen und Roggenerzeugnisse, (28) Laktose, (30) Eier und -erzeugnisse, (31) Fisch und -erzeugnisse, (33) Soja und -erzeugnisse, (34) Milch und -erzeugnisse, (36) Sellerie und -erzeugnisse, (37) Senf und -erzeugnisse, (39) Schwefeldioxid und Sulfide in einer Konzentration von mehr als 10mg/kg oder 10/mg/l, als SO2 angegeben (1) mit Konservierungsstoff, (2) mit Antioxidationsmittel, (7) mit einer Zuckerart und Süßungsmitteln, (10) enthält eine Phenylalaninquelle, (12) mit Farbstoff, (14) gewachst, (16) mit Phosphat, (19) mit Milcheiweiß, (20) mit Eiklar, (21) unter Verwendung von Milch": [],
+  "15.05.2023": [
+    {
+      "_id": 1,
+      "description": "Graupensuppe mit Rindfleisch A, 515, 36 dazu Becher-Dessert 28, 34, 7, 10"
+    },
+    {
+      "_id": 2,
+      "description": "Hähnchenschnitzel A, 511 mit Erbsengemüse 12 und Kartoffeln"
+    },
+    {
+      "_id": 3,
+      "description": "Spätzlepfanne A, 511, 512, 30 mit Rucola-Pilzsoße A, 511, 12 dazu Rohkostsalat 2"
+    }
+  ],
+  "16.05.2023": [
+    {
+      "_id": 1,
+      "description": "Kartoffelauflauf 28, 30, 34, 19, 21 mit Tomate-Mozzarella 28, 34 dazu Rohkostsalat 2"
+    },
+    {
+      "_id": 2,
+      "description": "Spirelli \"Bolognese\" A, 511, 36, 12 mit geriebenen Käse 19, 21 dazu Rohkostsalat 2"
+    },
+    {
+      "_id": 3,
+      "description": "Hähnchenbrust mit Parmesan 28, 30, 33, 34, 1 in Bärlauch-Käsesoße A, 511, 28, 33, 34, 12 dazu Gemüse-Gnocchipfanne A, 511, 28, 30, 33, 34, 12"
+    }
+  ],
+  "17.05.2023": [
+    {
+      "_id": 1,
+      "description": "Grießbrei A, 511, 28, 34 und Erdbeersoße 12, 43 mit Zucker und Zimt"
+    },
+    {
+      "_id": 2,
+      "description": "Hähnchengeschnetzeltes A, 511, 28, 34, 12 mit Erbsengemüse 12 und Reis dazu Rohkostsalat 2"
+    },
+    {
+      "_id": 3,
+      "description": "Matjeshering A, 511, 28, 30, 31, 34, 37, 1, 3, 4, 6 mit Remouladensoße 28, 30, 34, 37, 2, 4, 12 und Kartoffeln"
+    }
+  ],
+  "18.05.2023": [],
+  "19.05.2023": [
+    {
+      "_id": 1,
+      "description": "Schweineschnitzel A, 511, 30, 34, 36, 37 mit Kartoffelsalat 37, 1"
+    }
+  ],
+  "(A) Glutenhaltiges Getreide und -erzeugnisse, (511) Weizen und Weizenerzeugnisse, (512) Dinkel und Dinkelerzeugnisse, (515) Gerste und Gersteerzeugnisse, (28) Laktose, (30) Eier und -erzeugnisse, (31) Fisch und -erzeugnisse, (33) Soja und -erzeugnisse, (34) Milch und -erzeugnisse, (36) Sellerie und -erzeugnisse, (37) Senf und -erzeugnisse (1) mit Konservierungsstoff, (2) mit Antioxidationsmittel, (3) mit Geschmacksverstärker, (4) mit Süßungsmittel, (6) mit einer Zuckerart und Süßungsmittel, (7) mit einer Zuckerart und Süßungsmitteln, (10) enthält eine Phenylalaninquelle, (12) mit Farbstoff, (19) mit Milcheiweiß, (21) unter Verwendung von Milch, (43) enthält keine deklarationspflichtigen Zusatzstoffe": [],
+  "22.05.2023": [
+    {
+      "_id": 1,
+      "description": "Blumenkohlsuppe mit Kartoffelwürfeln 28, 34, 36 dazu Becher-Dessert 28, 34, 7, 10"
+    },
+    {
+      "_id": 2,
+      "description": "Pulled Chicken (Geflügelbratenfleisch mariniert, zerkleinert) dazu Krautsalat 2 und Kräuterquark 28, 34 sowie Fladenbrot A, 511, 38"
+    },
+    {
+      "_id": 3,
+      "description": "Pizzaschnitzel (Schweineschnitzel gratiniert mit Tomate, Käse und Salami) A, 511, 30, 34, 12, 20 auf Tellerrösti dazu Rohkostsalat 2"
+    }
+  ],
+  "23.05.2023": [
+    {
+      "_id": 1,
+      "description": "Spinatlasagne A, 511, 28, 34 dazu Rohkostsalat 2"
+    },
+    {
+      "_id": 2,
+      "description": "Jägerschnitzel A, 511, 37, 1, 2 mit Makkaroni A, 511, 30 und Tomatensoße A, 511, 12"
+    },
+    {
+      "_id": 3,
+      "description": "Schweinebraten mit Bohnengemüse und Kartoffeln"
+    }
+  ],
+  "24.05.2023": [
+    {
+      "_id": 1,
+      "description": "Hefeklöße A, 511, 28, 30, 34 mit Beerensoße 12 und Soße mit Vanillegeschmack 28, 34, 12"
+    },
+    {
+      "_id": 2,
+      "description": "gegrillte Hähnchenkeule mit Rotkohl und Klößen"
+    },
+    {
+      "_id": 3,
+      "description": "Gyrosgeschnetzeltes 93, A, 511, 28, 34, 12 mit Tzatziki 28, 34 und Reis dazu Krautsalat 2"
+    }
+  ],
+  "25.05.2023": [
+    {
+      "_id": 1,
+      "description": "Kräuterquark 28, 34 mit Kartoffeln dazu Frischobst 14"
+    },
+    {
+      "_id": 2,
+      "description": "Seelachsfilet \"Italiano \" (fertig) 28, 31, 34 mit Bandnudeln A, 511, 30 und Basilikum-Tomatensoße A, 511, 12"
+    },
+    {
+      "_id": 3,
+      "description": "Kohlroulade 28, 34, 37 mit Kohlsoße und Kartoffeln"
+    }
+  ],
+  "26.05.2023": [
+    {
+      "_id": 1,
+      "description": "Gemüseeintopf mit Kartoffelwürfeln und Hühnerfleisch 1, 2 dazu Becher-Dessert 28, 34, 7, 10"
+    },
+    {
+      "_id": 2,
+      "description": "Hackfleisch-Weißkohlpfanne mit Kartoffeln dazu Frischobst 14"
+    },
+    {
+      "_id": 3,
+      "description": "Allgäuer Käsespätzle A, 511, 28, 30, 34, 12 mit Tomatensalat"
+    }
+  ],
+  "(93) unter Verwendung von Alkohol, (A) Glutenhaltiges Getreide und -erzeugnisse, (511) Weizen und Weizenerzeugnisse, (28) Laktose, (30) Eier und -erzeugnisse, (31) Fisch und -erzeugnisse, (34) Milch und -erzeugnisse, (36) Sellerie und -erzeugnisse, (37) Senf und -erzeugnisse, (38) Sesamsamen und -erzeugnisse (1) mit Konservierungsstoff, (2) mit Antioxidationsmittel, (7) mit einer Zuckerart und Süßungsmitteln, (10) enthält eine Phenylalaninquelle, (12) mit Farbstoff, (14) gewachst, (20) mit Eiklar": [],
+  "29.05.2023": [],
+  "30.05.2023": [
+    {
+      "_id": 1,
+      "description": "Rührei 30 mit Spinat 28, 34 und Kartoffeln"
+    },
+    {
+      "_id": 2,
+      "description": "Spirelli A, 511 auf Tomatensoße A, 511, 12 mit kleinen Fleischklößchen 30, 20 dazu Becher-Dessert 28, 34, 7, 10"
+    },
+    {
+      "_id": 3,
+      "description": "Schweineschnitzel gratiniert mit Broccoli- Kartoffelauflauf A, 511, 30, 34, 36, 37, 19, 21"
+    }
+  ],
+  "31.05.2023": [
+    {
+      "_id": 1,
+      "description": "Kartoffelpuffer A, 511, 30 mit Apfelmus 2"
+    },
+    {
+      "_id": 2,
+      "description": "Boulette A, 511, 30, 20 mit Blumenkohl und Kartoffeln"
+    },
+    {
+      "_id": 3,
+      "description": "Spanische Paella mit Hühnerfleisch (ohne Meeresfrüchte) 93, 39, 14 dazu Rohkostsalat 2"
+    }
+  ],
+  "01.06.2023": [
+    {
+      "_id": 1,
+      "description": "gekochte Eier 30 mit Senfsoße A, 511, 37, 12 und Kartoffeln dazu Rohkostsalat 2"
+    },
+    {
+      "_id": 2,
+      "description": "Fischfilet mit Spinat grat. 28, 31, 34, 12, 19, 21 dazu Kräutersoße A, 511, 28, 34, 12 und Kartoffeln dazu Gurkensalat"
+    },
+    {
+      "_id": 3,
+      "description": "Chili con Carne mit Kidneybohnen A, 511, 12 und Pommes Frites dazu Rohkostsalat 2"
+    }
+  ],
+  "02.06.2023": [
+    {
+      "_id": 1,
+      "description": "Kartoffelsuppe 36 mit Würstchen A, 511, 30, 33, 34, 36, 37, 1, 16, 21 dazu Becher-Dessert 28, 34, 7, 10"
+    },
+    {
+      "_id": 2,
+      "description": "Bratwürstchenpfanne 34, 36, 37 mit Kartoffelpüree 28, 34 dazu Frischobst 14"
+    },
+    {
+      "_id": 3,
+      "description": "vegetarische Moussaka A, 511, 28, 30, 33, 34 mit Tzatziki 28, 34 dazu Gurkensalat"
+    }
+  ],
+  "(93) unter Verwendung von Alkohol, (A) Glutenhaltiges Getreide und -erzeugnisse, (511) Weizen und Weizenerzeugnisse, (28) Laktose, (30) Eier und -erzeugnisse, (31) Fisch und -erzeugnisse, (33) Soja und -erzeugnisse, (34) Milch und -erzeugnisse, (36) Sellerie und -erzeugnisse, (37) Senf und -erzeugnisse, (39) Schwefeldioxid und Sulfide in einer Konzentration von mehr als 10mg/kg oder 10/mg/l, als SO2 angegeben (1) mit Konservierungsstoff, (2) mit Antioxidationsmittel, (7) mit einer Zuckerart und Süßungsmitteln, (10) enthält eine Phenylalaninquelle, (12) mit Farbstoff, (14) gewachst, (16) mit Phosphat, (19) mit Milcheiweiß, (20) mit Eiklar, (21) unter Verwendung von Milch": []
 }
