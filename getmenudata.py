@@ -1,9 +1,8 @@
-import camelot.io as camelot  # To get tables out of an PDF file
-import pandas  # To handle DataFrames
 import json
+import pandas  # To handle DataFrames
 import requests
 from bs4 import BeautifulSoup
-from datetime import date
+import camelot.io as camelot  # To get tables out of an PDF file
 
 # Setting the path for the output file
 output_file = "./data/speiseplan.json"
