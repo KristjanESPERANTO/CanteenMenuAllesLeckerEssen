@@ -14,8 +14,10 @@ canteen_url = (
 html_text = requests.get(canteen_url).text
 soup = BeautifulSoup(html_text, "html.parser")
 urls = []
-for link in soup.find_all("a", download=True):
-    urls.append(link.get("href"))
+for link in soup.find_all("a"):
+    href = link.get("href")
+    if "pdf" in href:
+        urls.append(href)
 
 # URL arrays for testing
 # urls = ["https://www.alles-lecker-essen.de/wp-content/uploads/2021/10/Neutral1121.pdf",
