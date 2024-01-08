@@ -9,7 +9,7 @@ output_file = "./data/speiseplan.json"
 
 # Getting the URLs of the PDF files from the website
 canteen_url = (
-    "https://www.alles-lecker-essen.de/unsere-speiseplaene/speiseplaene-kantinen/"
+    "http://www.alles-lecker-essen.de/unsere-speiseplaene/speiseplaene-kantinen/"
 )
 html_text = requests.get(canteen_url).text
 soup = BeautifulSoup(html_text, "html.parser")
@@ -29,6 +29,7 @@ for link in soup.find_all("a"):
 table_dataframes = []
 print("Try to find the PDF files of the current and the next month.")
 for url in urls:
+    url = url.replace("https", "http");
     print(" Try to read file: " + url)
     try:
         # Get all tabels in the PDF file - each page has one table
